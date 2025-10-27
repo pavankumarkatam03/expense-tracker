@@ -1,0 +1,1501 @@
+Date,Month,City,Income,Category,Expense,Payment_Method,Future_Expense
+2024-04-16,April,Chennai,58913,Travel,7149,Cash,6851.75
+2023-03-14,March,Chennai,70703,Food,7964,Debit Card,8283.57
+2024-01-27,January,Delhi,45809,Food,3667,Credit Card,4062.08
+2023-01-01,January,Bangalore,30321,Others,2430,Net Banking,2572.44
+2023-07-28,July,Chennai,43448,Others,3038,UPI,3200.38
+2023-08-08,August,Delhi,54320,Travel,13237,Net Banking,12669.3
+2024-08-22,August,Mumbai,63846,Others,3041,Debit Card,2922.63
+2023-09-11,September,Hyderabad,36062,Education,4746,UPI,5602.88
+2024-04-12,April,Bangalore,72800,Entertainment,3465,Credit Card,3465.12
+2024-05-16,May,Kolkata,73343,Entertainment,3307,Debit Card,2992.43
+2023-08-18,August,Delhi,62812,Others,630,Credit Card,718.95
+2023-07-10,July,Delhi,61031,Entertainment,7617,Credit Card,7235.3
+2024-02-12,February,Chennai,49745,Food,7942,Cash,7906.97
+2024-05-21,May,Hyderabad,63838,Education,11371,UPI,13279.68
+2024-05-30,May,Delhi,78369,Entertainment,5085,Cash,5406.69
+2023-10-18,October,Kolkata,65116,Travel,3889,UPI,4507.95
+2024-02-08,February,Bangalore,25125,Others,4559,UPI,4129.03
+2023-09-22,September,Hyderabad,47499,Food,6630,Cash,7620.92
+2023-09-08,September,Delhi,49259,Education,3872,Net Banking,3662.95
+2024-07-02,July,Mumbai,78789,Education,3328,Net Banking,3390.27
+2023-07-31,July,Delhi,51507,Food,9443,Credit Card,8670.69
+2023-06-10,June,Mumbai,60276,Food,3227,Cash,2926.53
+2024-07-27,July,Kolkata,31466,Rent,14093,Credit Card,15500.42
+2023-07-09,July,Bangalore,61899,Rent,11807,Net Banking,11136.31
+2024-03-16,March,Hyderabad,70691,Education,8474,Net Banking,8751.73
+2024-05-08,May,Chennai,69239,Rent,12855,Cash,15336.18
+2024-07-04,July,Kolkata,59585,Education,8543,Cash,7966.34
+2023-10-24,October,Chennai,40949,Education,3249,UPI,3720.21
+2023-05-02,May,Kolkata,65252,Food,8599,Debit Card,8254.06
+2024-06-07,June,Hyderabad,58660,Others,1889,Cash,1972.51
+2024-05-25,May,Kolkata,40685,Rent,20727,Net Banking,19671.72
+2023-09-15,September,Kolkata,48190,Food,8453,Debit Card,9072.0
+2023-12-24,December,Bangalore,74599,Entertainment,583,Cash,573.18
+2024-01-06,January,Bangalore,45206,Health,7319,Debit Card,8259.36
+2023-11-18,November,Mumbai,41194,Health,8863,Net Banking,10595.28
+2023-09-08,September,Delhi,48801,Health,1610,Credit Card,1845.38
+2024-08-23,August,Hyderabad,27677,Entertainment,5219,Debit Card,6261.36
+2024-02-04,February,Hyderabad,44564,Rent,16673,Net Banking,18614.06
+2023-11-20,November,Mumbai,64031,Food,6659,Credit Card,7463.94
+2023-09-06,September,Pune,81287,Education,6634,UPI,7636.64
+2024-05-23,May,Hyderabad,42819,Entertainment,6234,Net Banking,6203.75
+2024-05-11,May,Hyderabad,74199,Entertainment,1696,Debit Card,1691.26
+2024-01-16,January,Pune,89857,Others,4752,Debit Card,5633.84
+2023-01-18,January,Mumbai,78357,Health,6485,Cash,7703.76
+2024-07-24,July,Hyderabad,60192,Entertainment,4207,Credit Card,4686.33
+2023-05-19,May,Delhi,32807,Food,3798,Cash,4077.39
+2023-05-10,May,Hyderabad,36962,Education,8750,Credit Card,7980.24
+2024-07-08,July,Bangalore,67747,Education,9119,UPI,9056.78
+2023-08-06,August,Mumbai,56772,Food,8553,Cash,9042.21
+2024-06-01,June,Pune,65235,Travel,6963,Credit Card,6365.35
+2023-06-16,June,Chennai,64926,Education,7951,Debit Card,8746.85
+2024-08-18,August,Kolkata,71217,Rent,21343,Credit Card,22598.51
+2024-01-03,January,Mumbai,84602,Travel,5385,UPI,5801.36
+2023-12-20,December,Delhi,44873,Others,3561,UPI,4024.66
+2024-02-22,February,Pune,53111,Food,5564,Cash,5162.03
+2023-02-14,February,Delhi,68847,Rent,13493,Cash,15478.2
+2023-11-23,November,Mumbai,63335,Travel,5654,Cash,6596.98
+2024-03-15,March,Bangalore,57693,Others,1612,Debit Card,1685.13
+2023-03-30,March,Kolkata,27943,Entertainment,7694,Net Banking,7419.37
+2024-01-28,January,Bangalore,77758,Travel,6360,UPI,5792.38
+2023-08-24,August,Pune,66114,Food,6275,UPI,5747.33
+2024-07-07,July,Chennai,49027,Health,9615,Cash,9171.26
+2023-07-13,July,Chennai,70795,Health,1418,Credit Card,1449.15
+2023-03-18,March,Hyderabad,59345,Health,592,Credit Card,596.12
+2024-04-07,April,Bangalore,79127,Rent,23585,Debit Card,23016.05
+2023-05-12,May,Pune,63591,Food,6636,Credit Card,6034.07
+2023-07-23,July,Mumbai,34931,Entertainment,3198,Credit Card,3706.99
+2024-01-12,January,Hyderabad,24108,Food,2706,Cash,2651.06
+2023-06-19,June,Mumbai,56910,Rent,23905,UPI,25778.5
+2024-08-04,August,Pune,48525,Food,6439,Credit Card,7262.19
+2024-04-21,April,Mumbai,59805,Others,4979,UPI,5703.42
+2023-11-25,November,Hyderabad,53028,Rent,11573,Net Banking,12862.86
+2023-12-14,December,Mumbai,58459,Food,3662,Net Banking,4124.36
+2023-09-21,September,Pune,60736,Travel,3650,UPI,3708.71
+2024-04-21,April,Mumbai,76194,Rent,24501,Debit Card,25202.76
+2024-02-19,February,Kolkata,79465,Rent,14736,UPI,16328.77
+2024-01-13,January,Mumbai,52929,Education,3753,Credit Card,3729.07
+2024-01-31,January,Delhi,33298,Food,5931,UPI,6987.6
+2024-06-12,June,Hyderabad,62573,Entertainment,3861,Net Banking,4557.6
+2023-05-10,May,Mumbai,41238,Others,4088,Credit Card,4813.36
+2024-05-23,May,Bangalore,72487,Health,3151,Net Banking,3495.47
+2024-07-24,July,Bangalore,56729,Education,11491,Cash,13718.03
+2024-02-15,February,Hyderabad,93101,Education,10360,UPI,12187.43
+2023-12-10,December,Delhi,56723,Education,2400,Debit Card,2227.14
+2023-02-15,February,Delhi,52401,Health,9768,UPI,10438.82
+2023-12-02,December,Hyderabad,54291,Rent,14721,Credit Card,16301.54
+2023-06-12,June,Bangalore,31000,Health,602,Debit Card,720.77
+2023-02-22,February,Kolkata,40937,Rent,22674,Net Banking,26247.19
+2023-01-17,January,Kolkata,58336,Rent,24388,Net Banking,27992.38
+2023-08-12,August,Mumbai,86698,Entertainment,1986,Net Banking,2246.23
+2024-02-03,February,Delhi,52843,Education,7652,UPI,8652.89
+2023-08-16,August,Delhi,48723,Entertainment,5655,Debit Card,5576.2
+2024-04-06,April,Delhi,67129,Entertainment,7690,UPI,8221.4
+2023-08-09,August,Kolkata,67681,Health,5266,Credit Card,5871.63
+2023-03-04,March,Kolkata,56535,Travel,9476,Net Banking,9637.3
+2023-11-14,November,Bangalore,55446,Education,8792,Credit Card,8368.04
+2023-11-16,November,Delhi,73743,Education,8978,Credit Card,10640.74
+2023-03-22,March,Pune,66285,Food,5750,Credit Card,5914.44
+2023-04-05,April,Bangalore,58363,Entertainment,1968,Credit Card,2077.41
+2024-05-26,May,Delhi,78304,Travel,10764,Net Banking,10500.38
+2024-02-03,February,Pune,77953,Others,3615,Credit Card,3761.93
+2023-06-18,June,Bangalore,52412,Education,8425,Cash,9495.36
+2023-01-17,January,Mumbai,67654,Others,489,Cash,526.54
+2023-03-01,March,Delhi,51749,Entertainment,6936,Debit Card,8084.29
+2023-01-23,January,Kolkata,52912,Health,2538,Debit Card,2770.43
+2023-06-23,June,Pune,71734,Entertainment,2133,Net Banking,2016.19
+2023-06-07,June,Mumbai,53904,Rent,14525,Credit Card,14344.13
+2024-02-29,February,Pune,56790,Education,4840,Debit Card,4658.64
+2023-04-02,April,Mumbai,64217,Entertainment,1355,Credit Card,1604.9
+2024-05-11,May,Bangalore,69630,Health,1193,Cash,1316.7
+2024-02-10,February,Kolkata,55077,Entertainment,1999,UPI,2046.45
+2024-04-23,April,Pune,61151,Entertainment,5620,Debit Card,6068.4
+2023-01-19,January,Pune,85117,Entertainment,4270,Credit Card,4222.63
+2023-09-27,September,Pune,46755,Others,2722,Credit Card,2924.92
+2023-04-09,April,Delhi,73268,Entertainment,5033,UPI,5122.87
+2023-11-21,November,Delhi,35523,Education,11799,Debit Card,13628.0
+2023-07-07,July,Mumbai,56680,Health,4695,Credit Card,4456.68
+2023-02-23,February,Pune,72164,Travel,1515,Debit Card,1717.78
+2024-08-17,August,Hyderabad,56394,Travel,4034,Credit Card,4634.03
+2023-05-23,May,Bangalore,62136,Others,1532,Cash,1493.99
+2023-12-27,December,Kolkata,32078,Education,6505,Debit Card,7601.92
+2023-02-16,February,Bangalore,68553,Travel,10465,Net Banking,9998.29
+2023-02-01,February,Mumbai,54447,Rent,11117,Debit Card,10549.48
+2024-03-14,March,Delhi,69669,Education,6190,Credit Card,5706.07
+2023-04-09,April,Pune,67795,Food,7630,Cash,8600.39
+2023-03-07,March,Mumbai,38949,Rent,23844,Debit Card,21965.6
+2024-08-08,August,Delhi,53664,Education,3437,Cash,3745.11
+2024-03-10,March,Bangalore,42663,Education,7240,Credit Card,7651.26
+2024-02-09,February,Delhi,38396,Travel,9164,Credit Card,10889.01
+2023-11-07,November,Chennai,27002,Others,4768,Cash,5715.23
+2024-03-04,March,Pune,44045,Entertainment,5413,Debit Card,5907.06
+2023-12-30,December,Hyderabad,79089,Education,9377,UPI,11059.46
+2023-01-24,January,Hyderabad,58523,Others,1323,Debit Card,1325.84
+2023-09-23,September,Hyderabad,47289,Health,4756,Credit Card,4461.96
+2023-06-05,June,Bangalore,58919,Rent,11536,Debit Card,11443.88
+2023-03-19,March,Hyderabad,49905,Food,9624,Cash,10768.52
+2023-09-09,September,Mumbai,49434,Health,4337,Cash,4924.52
+2023-07-14,July,Pune,63968,Travel,10035,Credit Card,11083.07
+2023-08-09,August,Pune,66472,Rent,22737,Cash,26136.74
+2024-07-07,July,Delhi,81830,Food,2550,Credit Card,2474.26
+2024-01-19,January,Hyderabad,66104,Entertainment,4038,Debit Card,3708.67
+2023-01-12,January,Bangalore,46178,Education,3539,Credit Card,3370.18
+2023-03-29,March,Pune,49470,Travel,10261,Cash,10060.84
+2023-07-23,July,Mumbai,49749,Others,969,UPI,1126.04
+2023-06-09,June,Mumbai,67912,Health,2967,Cash,3533.57
+2023-03-03,March,Bangalore,49106,Education,4028,Credit Card,4708.18
+2023-03-08,March,Kolkata,57356,Health,4324,Net Banking,4432.58
+2023-06-13,June,Bangalore,67377,Food,4050,UPI,4009.49
+2024-02-18,February,Kolkata,49926,Others,3210,Debit Card,2930.04
+2023-06-21,June,Mumbai,49296,Travel,1561,Debit Card,1427.15
+2023-04-21,April,Mumbai,47979,Rent,9009,Net Banking,9711.09
+2023-04-03,April,Bangalore,59150,Education,3481,Debit Card,3929.66
+2023-02-23,February,Pune,52686,Food,6769,Credit Card,6135.4
+2024-02-24,February,Chennai,62383,Others,756,Credit Card,792.79
+2023-06-04,June,Kolkata,79463,Health,2371,UPI,2612.72
+2023-07-03,July,Pune,64291,Travel,12914,UPI,15229.97
+2023-12-02,December,Mumbai,71086,Education,3597,Cash,3697.98
+2023-11-07,November,Kolkata,62940,Food,2577,Debit Card,2475.59
+2023-02-05,February,Bangalore,66546,Health,9242,Credit Card,9093.05
+2024-03-01,March,Delhi,66718,Education,9322,Cash,11123.82
+2024-06-13,June,Bangalore,68001,Travel,9951,Debit Card,11885.69
+2024-03-05,March,Pune,35358,Travel,8672,Cash,9758.22
+2023-07-29,July,Kolkata,67640,Travel,12641,Cash,13602.74
+2024-02-05,February,Bangalore,59022,Food,6759,Debit Card,7879.5
+2023-09-15,September,Hyderabad,81621,Food,7005,UPI,7615.18
+2024-06-22,June,Delhi,24698,Travel,3119,Debit Card,3218.42
+2023-09-26,September,Pune,66862,Others,2770,UPI,2989.73
+2024-05-21,May,Delhi,63168,Entertainment,5041,Cash,5995.36
+2024-03-13,March,Chennai,111172,Entertainment,4355,UPI,4023.03
+2024-05-14,May,Pune,63908,Health,3390,UPI,3302.27
+2023-10-01,October,Mumbai,48532,Others,3094,Credit Card,3016.03
+2023-03-02,March,Bangalore,59660,Rent,23241,UPI,22527.24
+2023-07-26,July,Chennai,64967,Rent,9237,UPI,8753.11
+2024-04-01,April,Bangalore,75607,Rent,11469,Credit Card,10609.09
+2024-04-17,April,Delhi,62190,Entertainment,3006,Credit Card,2881.17
+2024-04-03,April,Chennai,58860,Rent,20934,Debit Card,19524.53
+2023-10-27,October,Kolkata,66904,Entertainment,2516,Net Banking,2882.1
+2024-06-08,June,Delhi,67763,Education,5701,UPI,5333.84
+2023-03-30,March,Delhi,62321,Others,1013,UPI,1009.59
+2023-01-31,January,Pune,44125,Rent,18062,Cash,18256.11
+2023-06-07,June,Delhi,72762,Health,4089,Credit Card,4788.41
+2023-02-12,February,Delhi,78623,Education,5907,Cash,5632.84
+2024-01-28,January,Pune,67410,Entertainment,1006,Credit Card,1103.83
+2024-03-17,March,Delhi,49318,Travel,3136,UPI,3090.45
+2023-01-23,January,Kolkata,86611,Health,1494,Cash,1605.01
+2024-06-26,June,Delhi,70606,Rent,20610,Net Banking,19371.8
+2023-12-19,December,Mumbai,64855,Entertainment,819,Cash,969.37
+2023-08-26,August,Mumbai,47931,Entertainment,4080,UPI,4443.47
+2024-04-12,April,Mumbai,72709,Rent,12663,Debit Card,13087.28
+2024-04-08,April,Bangalore,38610,Rent,9620,Cash,9601.02
+2023-02-11,February,Pune,46394,Travel,8525,Net Banking,9300.86
+2023-04-21,April,Pune,94419,Health,1025,Credit Card,1155.5
+2024-04-22,April,Pune,61095,Travel,14372,Cash,13055.59
+2023-09-27,September,Mumbai,43121,Entertainment,1592,Credit Card,1647.52
+2024-03-04,March,Mumbai,36524,Food,9007,Cash,10351.59
+2024-06-26,June,Kolkata,76672,Food,5950,Net Banking,5850.39
+2023-03-22,March,Chennai,83981,Others,3162,Cash,2882.55
+2023-03-07,March,Pune,77896,Others,932,UPI,1014.91
+2024-08-07,August,Mumbai,57863,Others,1017,Net Banking,1013.84
+2023-05-20,May,Delhi,62046,Education,11205,Net Banking,12177.09
+2023-03-23,March,Delhi,59984,Travel,5510,Net Banking,5981.49
+2024-03-28,March,Hyderabad,81969,Rent,15899,UPI,14389.4
+2024-04-03,April,Kolkata,60691,Others,3839,Net Banking,4270.44
+2024-02-20,February,Pune,52362,Rent,19072,Cash,19677.85
+2023-06-29,June,Bangalore,54629,Entertainment,7066,Cash,8057.02
+2024-04-06,April,Kolkata,36655,Food,7398,UPI,7374.82
+2023-05-15,May,Kolkata,24911,Rent,8494,Cash,9204.01
+2023-05-19,May,Mumbai,47949,Education,7574,Credit Card,8896.45
+2024-01-01,January,Kolkata,65555,Food,3405,Debit Card,3518.12
+2024-03-19,March,Hyderabad,44153,Food,7863,Cash,8891.05
+2023-01-20,January,Hyderabad,52621,Rent,24032,Credit Card,26027.06
+2024-07-27,July,Kolkata,48233,Food,3034,Cash,2768.16
+2024-04-13,April,Hyderabad,64254,Education,2428,Credit Card,2265.53
+2024-02-29,February,Bangalore,81315,Health,5134,UPI,5036.36
+2023-07-13,July,Delhi,86246,Others,2393,Credit Card,2438.1
+2023-06-29,June,Chennai,47967,Entertainment,1645,Credit Card,1769.75
+2024-02-24,February,Bangalore,50036,Education,11468,Credit Card,12190.03
+2023-12-02,December,Chennai,57797,Rent,12664,Credit Card,14068.02
+2024-08-23,August,Delhi,79818,Others,1737,Cash,1947.86
+2024-02-12,February,Hyderabad,73400,Entertainment,4267,Net Banking,4591.76
+2023-05-21,May,Delhi,68048,Health,6644,Debit Card,7120.49
+2023-06-10,June,Hyderabad,60447,Education,3320,Credit Card,3976.48
+2024-06-03,June,Delhi,56125,Others,3761,Credit Card,4056.83
+2024-01-25,January,Chennai,56331,Others,4812,Net Banking,4931.11
+2024-01-18,January,Delhi,71202,Education,11285,Net Banking,11480.07
+2024-02-03,February,Bangalore,47264,Entertainment,6661,Debit Card,7415.88
+2023-08-07,August,Chennai,56998,Rent,12874,Debit Card,13274.34
+2024-01-20,January,Bangalore,63263,Health,3610,Net Banking,3380.86
+2024-05-28,May,Bangalore,34257,Entertainment,1334,Debit Card,1486.4
+2023-04-18,April,Bangalore,77782,Health,7139,Credit Card,6983.06
+2024-08-11,August,Delhi,71897,Food,8434,Debit Card,8847.29
+2024-07-15,July,Pune,37406,Rent,17495,Credit Card,18031.9
+2023-08-29,August,Delhi,59579,Others,4348,Net Banking,4716.99
+2024-01-28,January,Pune,49792,Health,4030,UPI,3752.63
+2023-06-06,June,Pune,52420,Health,8866,Net Banking,9262.16
+2024-02-11,February,Kolkata,36056,Health,9041,Net Banking,8774.86
+2023-11-29,November,Hyderabad,77027,Rent,14014,Cash,13299.79
+2024-07-22,July,Chennai,32749,Entertainment,847,Cash,997.61
+2024-02-24,February,Chennai,59068,Education,4379,Debit Card,4242.35
+2023-01-14,January,Mumbai,43431,Health,1529,Cash,1679.89
+2023-11-02,November,Delhi,62965,Rent,19825,Net Banking,19176.81
+2023-05-19,May,Bangalore,66282,Others,2750,Cash,2792.59
+2024-03-28,March,Mumbai,64293,Rent,17292,Credit Card,16689.1
+2023-08-09,August,Pune,77806,Travel,13731,Credit Card,14071.77
+2024-08-13,August,Mumbai,76345,Health,3312,Cash,3622.02
+2024-07-15,July,Delhi,95998,Food,7274,Credit Card,8157.55
+2023-12-12,December,Mumbai,29828,Food,9361,Debit Card,10367.97
+2024-08-04,August,Mumbai,64757,Health,3124,Debit Card,3609.28
+2024-04-17,April,Bangalore,65606,Entertainment,1973,Net Banking,1785.74
+2024-01-23,January,Hyderabad,74383,Travel,5993,Cash,6484.13
+2023-12-03,December,Delhi,46720,Food,7262,Credit Card,7745.87
+2023-04-26,April,Chennai,42692,Others,1655,UPI,1643.92
+2023-02-28,February,Pune,58959,Entertainment,4474,Net Banking,4750.45
+2023-03-06,March,Pune,51683,Education,2022,Credit Card,2308.14
+2023-12-26,December,Kolkata,52455,Travel,11153,Credit Card,10994.03
+2023-08-26,August,Mumbai,70463,Food,6873,UPI,7191.11
+2023-02-19,February,Kolkata,70052,Education,3100,Debit Card,3626.2
+2024-03-13,March,Pune,49059,Rent,18251,Cash,19013.83
+2023-10-27,October,Bangalore,48340,Entertainment,5874,UPI,6083.03
+2024-03-22,March,Hyderabad,52816,Rent,10334,Net Banking,9993.78
+2024-06-28,June,Pune,36490,Travel,9525,Debit Card,10427.68
+2024-05-17,May,Mumbai,45856,Others,4337,Debit Card,4114.06
+2023-03-07,March,Pune,71953,Travel,1562,Credit Card,1483.77
+2024-07-10,July,Hyderabad,69348,Entertainment,4767,Debit Card,5054.42
+2023-05-16,May,Bangalore,52784,Entertainment,1013,Debit Card,992.25
+2023-09-17,September,Mumbai,58176,Food,3631,Debit Card,3573.3
+2023-10-05,October,Mumbai,94850,Health,5649,UPI,5093.72
+2024-01-17,January,Delhi,64930,Others,319,Debit Card,328.5
+2023-08-15,August,Mumbai,52943,Entertainment,7706,Debit Card,8811.91
+2023-03-27,March,Bangalore,41418,Education,8825,Cash,9113.54
+2024-06-17,June,Delhi,53776,Education,4534,UPI,4619.71
+2023-03-13,March,Bangalore,49794,Travel,5994,Debit Card,5466.83
+2023-02-07,February,Kolkata,49704,Travel,13522,Debit Card,14783.3
+2024-04-29,April,Mumbai,108371,Travel,6331,Debit Card,6533.26
+2024-03-17,March,Chennai,73235,Rent,9093,Net Banking,10771.15
+2023-08-21,August,Mumbai,66610,Health,5256,UPI,5660.46
+2024-07-26,July,Kolkata,87193,Education,2714,Cash,2635.29
+2023-04-26,April,Chennai,86304,Entertainment,6179,Credit Card,6287.73
+2024-07-27,July,Kolkata,51097,Food,7466,Credit Card,8314.98
+2024-07-27,July,Bangalore,75390,Health,5136,Debit Card,4933.48
+2024-07-19,July,Hyderabad,44840,Food,6602,UPI,6300.23
+2024-07-07,July,Bangalore,35212,Education,10731,Cash,9771.66
+2023-03-16,March,Hyderabad,69980,Entertainment,3170,Net Banking,3529.9
+2023-10-24,October,Bangalore,42068,Travel,5319,Cash,5208.8
+2023-09-08,September,Mumbai,61843,Rent,20260,UPI,24137.68
+2023-05-17,May,Kolkata,61733,Rent,15690,Debit Card,17175.61
+2024-01-07,January,Bangalore,63861,Travel,3922,Net Banking,4324.08
+2024-07-27,July,Delhi,59764,Entertainment,6383,Debit Card,7621.37
+2023-07-03,July,Bangalore,59286,Rent,11826,Net Banking,12560.72
+2024-03-22,March,Chennai,41429,Education,5818,Debit Card,6335.64
+2023-12-08,December,Hyderabad,37573,Health,6033,Credit Card,7165.19
+2023-04-05,April,Chennai,57349,Education,4041,Debit Card,3670.46
+2023-10-24,October,Hyderabad,63172,Travel,14944,Debit Card,14267.72
+2023-08-09,August,Delhi,45671,Health,2451,Credit Card,2769.48
+2023-08-20,August,Bangalore,69591,Travel,14022,UPI,15320.76
+2023-09-14,September,Hyderabad,61680,Others,3351,Net Banking,3725.85
+2023-01-01,January,Kolkata,62053,Others,4091,Debit Card,4237.7
+2024-04-23,April,Kolkata,46125,Others,4630,UPI,4523.34
+2024-05-23,May,Pune,72744,Others,3368,Credit Card,3486.95
+2023-09-21,September,Chennai,73352,Rent,20247,Cash,23791.24
+2024-07-03,July,Pune,66027,Health,2366,Credit Card,2370.55
+2023-05-23,May,Pune,47636,Others,3312,Credit Card,3336.72
+2024-04-26,April,Chennai,74256,Education,7087,Credit Card,6888.54
+2023-02-10,February,Pune,91704,Rent,18604,Cash,20004.84
+2023-08-30,August,Hyderabad,29569,Education,10710,Debit Card,11283.14
+2023-09-23,September,Delhi,77104,Food,4651,UPI,5231.24
+2024-07-03,July,Chennai,62401,Entertainment,5214,UPI,5974.52
+2024-04-07,April,Mumbai,65707,Rent,10806,Credit Card,12808.97
+2024-04-02,April,Hyderabad,75233,Entertainment,3691,Net Banking,3759.84
+2023-01-21,January,Delhi,53888,Rent,18756,Credit Card,22406.98
+2023-07-19,July,Bangalore,52892,Entertainment,752,Debit Card,818.74
+2023-06-11,June,Mumbai,39200,Travel,9816,Debit Card,11078.0
+2023-03-30,March,Delhi,63117,Entertainment,2850,UPI,2660.72
+2024-06-17,June,Delhi,61359,Health,4215,Debit Card,3834.92
+2023-01-19,January,Mumbai,67127,Travel,12227,UPI,13401.21
+2023-02-06,February,Bangalore,55025,Rent,11013,Debit Card,12120.96
+2023-04-12,April,Pune,81097,Education,5682,UPI,6813.42
+2024-03-02,March,Delhi,61284,Food,9346,Debit Card,8494.81
+2024-01-01,January,Pune,36541,Food,7096,Cash,7143.04
+2024-01-11,January,Mumbai,41094,Education,2276,UPI,2563.65
+2023-01-12,January,Pune,60322,Health,7625,UPI,7399.68
+2023-03-27,March,Hyderabad,76764,Travel,3991,Net Banking,4545.88
+2023-01-11,January,Pune,48024,Rent,13248,UPI,15876.46
+2023-08-29,August,Kolkata,81123,Food,9930,Net Banking,11897.58
+2023-10-13,October,Bangalore,51308,Education,10228,UPI,9284.69
+2023-07-29,July,Chennai,50514,Education,6299,UPI,6018.53
+2023-11-28,November,Hyderabad,61387,Education,4923,Cash,4712.06
+2023-08-26,August,Chennai,54106,Education,6365,Net Banking,6876.25
+2023-03-06,March,Pune,75411,Education,6732,Credit Card,6105.44
+2023-09-30,September,Mumbai,71159,Entertainment,4196,Cash,5023.11
+2023-08-16,August,Pune,47079,Travel,8101,Cash,7734.5
+2024-01-21,January,Pune,55303,Entertainment,4953,Credit Card,5517.92
+2023-08-19,August,Hyderabad,49272,Food,7312,Cash,8028.51
+2023-01-17,January,Mumbai,62580,Rent,11853,Cash,10968.3
+2024-06-09,June,Hyderabad,59406,Others,2714,Cash,2941.8
+2024-02-08,February,Pune,54956,Health,6517,Debit Card,7086.26
+2023-06-30,June,Pune,70115,Rent,12401,Net Banking,14537.52
+2023-08-17,August,Bangalore,76162,Entertainment,7145,Cash,7728.77
+2023-02-18,February,Bangalore,73349,Food,3492,UPI,3302.21
+2023-09-26,September,Pune,78384,Others,4597,Debit Card,4981.32
+2024-03-16,March,Pune,62292,Education,3880,Cash,4145.16
+2023-09-25,September,Delhi,61944,Others,2450,Cash,2823.31
+2023-01-09,January,Mumbai,58745,Health,2130,Net Banking,2014.01
+2024-03-13,March,Hyderabad,39089,Health,4024,Net Banking,3965.38
+2023-05-22,May,Hyderabad,65456,Health,7598,Credit Card,8667.18
+2023-10-22,October,Delhi,74113,Health,4881,Net Banking,5459.39
+2024-06-04,June,Chennai,78994,Travel,13597,Credit Card,13160.18
+2023-03-22,March,Mumbai,109417,Food,7496,UPI,8888.74
+2024-07-23,July,Chennai,40998,Food,7793,Net Banking,8724.26
+2023-11-08,November,Mumbai,57317,Travel,8687,Net Banking,9929.88
+2024-04-14,April,Pune,61402,Travel,13862,Net Banking,15680.29
+2024-02-20,February,Hyderabad,54054,Health,4029,Credit Card,4051.28
+2024-01-17,January,Kolkata,55162,Rent,14588,Debit Card,14868.54
+2023-02-20,February,Delhi,42428,Travel,9322,Net Banking,9934.92
+2023-08-26,August,Bangalore,70544,Travel,1492,UPI,1705.65
+2024-02-20,February,Mumbai,54888,Health,3499,Net Banking,3850.76
+2023-06-17,June,Pune,79359,Travel,5506,Net Banking,5366.83
+2024-05-11,May,Bangalore,71331,Travel,7405,UPI,8203.25
+2023-09-20,September,Mumbai,43133,Education,11127,Debit Card,13078.93
+2024-08-13,August,Chennai,63269,Entertainment,723,Cash,788.85
+2024-05-04,May,Bangalore,80101,Education,2773,UPI,3268.31
+2024-06-18,June,Bangalore,41453,Rent,11817,UPI,12869.72
+2024-07-22,July,Kolkata,55361,Health,683,UPI,667.17
+2024-05-31,May,Hyderabad,67517,Others,1663,Credit Card,1846.95
+2024-04-14,April,Bangalore,71776,Rent,21509,UPI,25470.73
+2024-03-13,March,Kolkata,67744,Food,9220,Net Banking,8889.8
+2023-09-17,September,Chennai,42658,Education,2457,Credit Card,2386.64
+2023-08-21,August,Bangalore,42336,Health,4976,Cash,5501.63
+2023-07-10,July,Delhi,61641,Health,9681,Credit Card,9104.42
+2023-12-28,December,Pune,46717,Travel,5915,Debit Card,6329.64
+2024-06-11,June,Kolkata,71425,Education,11748,UPI,12490.08
+2023-09-30,September,Chennai,72832,Rent,24984,UPI,27484.89
+2024-05-06,May,Bangalore,55748,Education,10760,UPI,10740.81
+2023-03-17,March,Pune,49523,Others,1558,Credit Card,1411.66
+2023-07-02,July,Hyderabad,78215,Food,3218,Net Banking,3178.54
+2023-05-23,May,Hyderabad,50566,Health,9919,Credit Card,10663.53
+2023-04-13,April,Delhi,40515,Health,788,Credit Card,719.2
+2024-02-13,February,Chennai,52127,Health,7681,Cash,8152.89
+2023-11-17,November,Mumbai,70263,Entertainment,3806,Credit Card,3741.37
+2024-02-26,February,Hyderabad,66496,Entertainment,5230,Credit Card,6044.85
+2024-06-17,June,Mumbai,47064,Health,2517,Debit Card,2817.02
+2024-06-14,June,Pune,56272,Others,1031,UPI,1183.89
+2023-05-11,May,Bangalore,45092,Travel,8545,Net Banking,9609.82
+2023-10-10,October,Delhi,58464,Entertainment,3253,Debit Card,3459.16
+2023-07-28,July,Chennai,58596,Food,3669,Net Banking,3929.99
+2024-07-05,July,Bangalore,50901,Food,9420,Net Banking,11268.69
+2023-11-09,November,Chennai,59001,Health,6406,Cash,7174.7
+2024-01-20,January,Kolkata,89353,Health,8417,Net Banking,9896.13
+2023-06-14,June,Hyderabad,72275,Others,2223,Cash,2367.48
+2024-03-02,March,Kolkata,77367,Travel,8180,Debit Card,8584.47
+2024-08-01,August,Kolkata,59676,Others,1562,Cash,1599.08
+2023-12-03,December,Chennai,71441,Travel,8143,Cash,7400.6
+2023-08-26,August,Hyderabad,65867,Food,2752,Cash,2842.54
+2023-01-05,January,Pune,69053,Rent,16119,Cash,16209.26
+2023-01-17,January,Pune,43218,Entertainment,2133,Cash,2341.47
+2023-12-24,December,Kolkata,84552,Food,8344,Credit Card,7933.63
+2024-03-22,March,Bangalore,69759,Entertainment,5494,Credit Card,5400.67
+2023-05-15,May,Kolkata,48192,Education,10587,Net Banking,9815.86
+2024-07-28,July,Bangalore,61558,Education,5219,UPI,6085.21
+2024-06-19,June,Chennai,54026,Entertainment,4893,UPI,5604.38
+2023-08-05,August,Mumbai,51864,Food,2064,Debit Card,2031.69
+2023-05-25,May,Kolkata,63357,Entertainment,7168,Debit Card,8259.14
+2024-07-16,July,Kolkata,42971,Others,3183,Credit Card,3031.92
+2023-04-05,April,Bangalore,63187,Travel,6737,Cash,7824.51
+2023-06-04,June,Delhi,22133,Rent,8174,UPI,8604.42
+2023-03-24,March,Chennai,28700,Rent,18164,Debit Card,19519.46
+2023-04-19,April,Pune,55656,Travel,2194,Cash,2552.05
+2024-04-07,April,Delhi,61807,Health,6561,UPI,7217.75
+2023-06-06,June,Hyderabad,40319,Education,5091,Credit Card,6087.42
+2024-05-21,May,Hyderabad,35572,Entertainment,5628,Net Banking,6673.32
+2023-10-24,October,Mumbai,76864,Education,4245,UPI,4675.34
+2024-06-03,June,Chennai,63725,Food,6426,Debit Card,5822.22
+2023-04-06,April,Kolkata,33654,Food,2252,Debit Card,2520.69
+2024-01-02,January,Pune,47540,Food,3029,Cash,2939.75
+2024-05-26,May,Delhi,48293,Travel,13461,Credit Card,12290.63
+2024-07-30,July,Mumbai,74814,Entertainment,7148,UPI,7609.92
+2023-07-09,July,Delhi,42737,Education,6403,Debit Card,6021.43
+2023-04-21,April,Delhi,51487,Food,7318,UPI,7384.8
+2024-01-20,January,Chennai,44377,Education,5731,Credit Card,5570.28
+2024-02-24,February,Mumbai,68704,Travel,11728,Cash,14056.08
+2023-10-14,October,Bangalore,79188,Food,9740,Debit Card,11434.31
+2024-01-12,January,Mumbai,48681,Food,6119,Credit Card,5706.17
+2023-04-01,April,Pune,72933,Food,8761,UPI,9473.26
+2023-09-08,September,Mumbai,68695,Rent,11795,Credit Card,10801.75
+2023-06-30,June,Chennai,66220,Health,3901,Cash,4412.94
+2024-02-11,February,Pune,61285,Entertainment,2031,Credit Card,2350.2
+2023-10-18,October,Pune,71114,Entertainment,4676,Credit Card,5354.01
+2024-01-14,January,Delhi,44686,Food,8125,Cash,8137.89
+2023-01-02,January,Kolkata,61739,Food,4060,Cash,4004.48
+2023-09-17,September,Delhi,75990,Health,2617,Net Banking,2767.65
+2023-08-13,August,Chennai,53655,Health,6353,Cash,6652.49
+2023-01-18,January,Kolkata,76261,Entertainment,6283,Net Banking,5789.21
+2024-06-25,June,Bangalore,104140,Others,1131,Net Banking,1135.72
+2023-09-15,September,Kolkata,54512,Rent,13857,Cash,12885.64
+2023-03-26,March,Chennai,45039,Others,2292,Credit Card,2174.71
+2023-09-05,September,Mumbai,39498,Rent,20106,Debit Card,18634.91
+2024-07-08,July,Pune,47882,Food,2845,Cash,3385.75
+2023-07-31,July,Pune,83020,Travel,12798,UPI,15101.8
+2024-04-05,April,Kolkata,60713,Education,4619,UPI,5404.52
+2024-03-16,March,Kolkata,27864,Others,1948,UPI,2063.99
+2024-04-14,April,Kolkata,30318,Health,718,Credit Card,704.51
+2023-03-07,March,Hyderabad,59488,Education,5524,Cash,5093.46
+2023-03-29,March,Chennai,62630,Education,11506,Cash,11081.15
+2023-08-19,August,Delhi,67153,Education,7438,Net Banking,8198.11
+2024-03-28,March,Pune,86117,Entertainment,7482,Credit Card,7836.81
+2024-05-18,May,Pune,95763,Food,8745,UPI,9628.29
+2024-05-22,May,Delhi,42200,Education,3171,Debit Card,3017.64
+2023-08-01,August,Delhi,52763,Education,8320,Net Banking,8893.6
+2024-08-01,August,Mumbai,67701,Food,7321,Debit Card,6900.92
+2024-04-10,April,Kolkata,66594,Others,1390,Cash,1607.85
+2023-08-21,August,Kolkata,83442,Others,1587,Credit Card,1760.46
+2023-01-04,January,Hyderabad,59223,Others,1955,Credit Card,1947.83
+2023-05-30,May,Mumbai,72089,Others,1828,Cash,2158.03
+2023-02-17,February,Chennai,54550,Food,9748,Debit Card,9017.06
+2023-10-16,October,Chennai,61113,Travel,9754,Debit Card,10300.22
+2023-02-02,February,Chennai,55470,Health,1295,Credit Card,1442.17
+2023-07-02,July,Kolkata,41115,Entertainment,6860,Debit Card,7287.25
+2024-08-09,August,Pune,65426,Entertainment,2873,UPI,3236.9
+2023-10-01,October,Hyderabad,60777,Others,1134,Debit Card,1327.46
+2023-01-05,January,Chennai,68121,Education,10929,Net Banking,10572.58
+2024-05-09,May,Bangalore,61979,Travel,3613,Cash,4010.1
+2023-12-19,December,Chennai,78771,Travel,7912,Credit Card,9025.87
+2023-12-03,December,Bangalore,55940,Entertainment,1670,UPI,1552.49
+2023-08-10,August,Kolkata,40426,Health,2077,UPI,2365.45
+2023-09-09,September,Pune,64549,Food,2938,UPI,3212.15
+2023-03-07,March,Kolkata,74997,Food,8294,Credit Card,9005.73
+2023-02-20,February,Pune,87543,Travel,10908,Credit Card,11664.31
+2024-05-23,May,Pune,58775,Health,9489,UPI,10506.88
+2024-07-18,July,Pune,56859,Travel,9744,Credit Card,9923.01
+2023-01-29,January,Kolkata,74127,Rent,20895,Cash,24782.42
+2023-02-15,February,Hyderabad,61637,Education,7220,Credit Card,8144.86
+2023-11-07,November,Hyderabad,48236,Food,9484,Debit Card,9874.29
+2023-01-17,January,Kolkata,48036,Health,3742,Cash,3753.19
+2024-01-24,January,Bangalore,64542,Health,3764,Net Banking,3465.06
+2023-06-10,June,Mumbai,82521,Rent,15039,Net Banking,14914.31
+2023-11-22,November,Mumbai,69732,Travel,4918,Net Banking,4545.51
+2024-03-22,March,Bangalore,54937,Rent,15930,Cash,15057.07
+2024-02-01,February,Kolkata,74132,Others,2124,UPI,2128.95
+2023-09-25,September,Mumbai,60034,Travel,2366,UPI,2311.24
+2023-12-14,December,Hyderabad,31627,Health,4039,Credit Card,4312.09
+2024-06-08,June,Kolkata,48915,Travel,3338,Debit Card,3058.41
+2024-03-29,March,Hyderabad,48054,Rent,21460,Credit Card,21849.25
+2023-05-02,May,Chennai,56541,Travel,2001,Net Banking,1940.65
+2024-06-07,June,Bangalore,65186,Others,2801,Net Banking,2582.51
+2023-06-22,June,Pune,36629,Education,6162,Credit Card,5823.77
+2023-04-26,April,Kolkata,76469,Education,3187,Cash,3448.34
+2023-01-18,January,Chennai,63266,Travel,13101,Cash,12203.49
+2023-11-19,November,Bangalore,23451,Food,5224,Net Banking,5563.88
+2023-06-27,June,Kolkata,62800,Others,3870,Credit Card,4560.62
+2023-05-02,May,Pune,77646,Entertainment,3916,Debit Card,4469.71
+2023-06-30,June,Kolkata,50015,Rent,20188,Cash,20127.96
+2023-03-19,March,Chennai,69612,Health,6283,Net Banking,7286.54
+2023-01-27,January,Delhi,40833,Entertainment,593,Cash,607.76
+2023-01-11,January,Mumbai,63650,Entertainment,5281,Cash,5481.33
+2024-05-11,May,Mumbai,50544,Rent,24416,Credit Card,29144.65
+2023-06-20,June,Hyderabad,54298,Travel,11688,Net Banking,13105.9
+2023-06-24,June,Delhi,52683,Education,10490,UPI,10957.34
+2023-05-01,May,Mumbai,50200,Education,4683,Credit Card,5004.11
+2023-03-07,March,Hyderabad,90041,Education,6402,Debit Card,6109.22
+2023-02-12,February,Kolkata,48702,Food,8150,UPI,7857.71
+2023-05-07,May,Mumbai,38693,Food,3471,Cash,3868.05
+2024-01-07,January,Hyderabad,61546,Entertainment,4990,UPI,4693.6
+2023-01-23,January,Bangalore,54835,Entertainment,3701,Credit Card,4079.96
+2024-02-21,February,Bangalore,63029,Health,5737,Net Banking,5632.88
+2023-02-19,February,Bangalore,40862,Food,8375,Debit Card,8020.88
+2023-12-02,December,Chennai,41531,Others,4127,UPI,4326.81
+2023-02-27,February,Mumbai,52461,Food,9854,Cash,10380.7
+2024-01-29,January,Kolkata,45440,Rent,11697,Credit Card,10624.2
+2023-03-27,March,Chennai,68841,Health,4961,Credit Card,4909.58
+2023-02-02,February,Bangalore,74929,Rent,9770,Credit Card,9694.47
+2023-04-16,April,Chennai,46084,Food,9974,Net Banking,11129.41
+2023-11-11,November,Chennai,80371,Travel,6028,Net Banking,6598.15
+2023-06-23,June,Pune,36728,Education,9958,UPI,9979.89
+2023-10-09,October,Kolkata,55304,Rent,10724,Cash,12042.05
+2024-01-26,January,Bangalore,71972,Rent,11276,Net Banking,11989.54
+2023-06-12,June,Hyderabad,38527,Rent,16871,Debit Card,16930.0
+2023-10-13,October,Pune,60568,Entertainment,6668,Debit Card,6230.66
+2023-10-06,October,Pune,47218,Entertainment,5792,Cash,5914.24
+2023-09-26,September,Mumbai,51060,Health,6980,Net Banking,7200.06
+2024-05-19,May,Pune,52980,Entertainment,4677,Net Banking,4723.22
+2023-08-01,August,Delhi,69141,Food,9595,UPI,10206.62
+2024-07-20,July,Kolkata,72853,Rent,8839,Cash,8936.11
+2024-07-18,July,Delhi,54486,Entertainment,6123,Net Banking,6186.56
+2024-01-05,January,Pune,59879,Entertainment,7038,Net Banking,6444.09
+2023-12-20,December,Hyderabad,44095,Health,574,Cash,632.04
+2023-04-30,April,Chennai,34409,Education,6642,Credit Card,6843.63
+2023-04-15,April,Delhi,74189,Entertainment,3694,Cash,3551.69
+2024-05-14,May,Hyderabad,78203,Food,2532,UPI,2453.05
+2024-04-12,April,Pune,76097,Travel,5704,Cash,5804.79
+2023-03-07,March,Mumbai,63844,Education,2077,Net Banking,2058.56
+2023-01-22,January,Hyderabad,44772,Food,2897,Cash,2640.18
+2023-02-12,February,Kolkata,72389,Rent,14234,Credit Card,13532.98
+2023-02-24,February,Hyderabad,40124,Rent,19717,UPI,23156.56
+2023-01-15,January,Delhi,51235,Food,5903,Net Banking,6051.02
+2024-08-16,August,Hyderabad,63242,Travel,11873,Net Banking,11443.44
+2024-02-28,February,Bangalore,47600,Health,9200,Cash,8601.74
+2024-04-15,April,Hyderabad,39595,Rent,13521,Debit Card,14208.75
+2024-05-20,May,Delhi,69770,Health,6986,Credit Card,6346.68
+2024-02-11,February,Hyderabad,60881,Others,3753,Net Banking,3990.88
+2023-04-13,April,Mumbai,88315,Others,2111,Cash,2465.17
+2023-12-28,December,Pune,62777,Health,4024,Credit Card,3873.0
+2023-09-20,September,Delhi,46391,Others,1940,Net Banking,1797.53
+2024-07-13,July,Chennai,78264,Others,1402,Credit Card,1552.55
+2023-06-03,June,Chennai,54001,Travel,4501,Cash,5311.85
+2023-08-26,August,Pune,88527,Food,6428,Credit Card,5973.02
+2023-11-08,November,Chennai,49130,Food,8787,Cash,9709.06
+2023-02-04,February,Bangalore,52903,Travel,2919,UPI,3035.79
+2023-10-18,October,Hyderabad,39594,Health,9995,Net Banking,9571.81
+2024-01-20,January,Pune,60664,Education,10780,Credit Card,10664.9
+2024-05-12,May,Pune,67482,Rent,14577,UPI,16569.45
+2024-04-15,April,Delhi,63373,Health,4878,Net Banking,4800.62
+2023-10-16,October,Hyderabad,67844,Others,483,Debit Card,545.13
+2023-11-10,November,Bangalore,57846,Education,3031,UPI,3363.63
+2023-10-26,October,Chennai,21394,Education,8761,Debit Card,9754.73
+2024-04-04,April,Chennai,51112,Travel,11531,UPI,13416.57
+2023-11-21,November,Chennai,56905,Education,4168,Cash,4204.96
+2024-08-22,August,Kolkata,73539,Others,3136,UPI,2897.7
+2023-06-22,June,Bangalore,56857,Health,8285,Net Banking,8561.5
+2024-05-22,May,Bangalore,81378,Education,6225,Debit Card,7047.38
+2024-03-30,March,Kolkata,87482,Others,3666,UPI,4358.06
+2023-01-02,January,Pune,53394,Health,5252,Credit Card,5131.55
+2024-06-19,June,Chennai,42386,Others,1921,Credit Card,2211.44
+2023-02-07,February,Hyderabad,35089,Rent,14122,Cash,14436.86
+2024-01-21,January,Delhi,65985,Education,2181,Net Banking,2404.92
+2023-01-12,January,Bangalore,76581,Education,5612,Cash,6121.68
+2023-06-03,June,Delhi,62409,Travel,7749,Net Banking,7741.83
+2023-10-21,October,Kolkata,50484,Health,4325,UPI,4771.67
+2023-03-26,March,Hyderabad,23593,Health,5173,Credit Card,5019.64
+2024-03-27,March,Mumbai,44421,Education,4808,Cash,4434.47
+2023-05-16,May,Mumbai,78710,Travel,2309,Debit Card,2449.66
+2023-01-17,January,Kolkata,35331,Health,3306,Credit Card,3601.14
+2023-09-23,September,Hyderabad,84015,Health,6112,UPI,7242.5
+2024-03-22,March,Mumbai,51431,Education,9893,Debit Card,9218.86
+2023-06-16,June,Chennai,48592,Education,11429,Debit Card,13624.4
+2023-05-28,May,Kolkata,42066,Rent,15139,UPI,15926.2
+2023-04-26,April,Bangalore,71259,Food,8450,Credit Card,9864.83
+2023-07-20,July,Delhi,71503,Travel,9212,Credit Card,9244.37
+2024-01-17,January,Chennai,68616,Travel,7862,Cash,8449.41
+2023-10-24,October,Mumbai,78894,Entertainment,6875,Credit Card,7808.93
+2023-04-20,April,Kolkata,75094,Others,391,UPI,354.89
+2023-03-23,March,Hyderabad,85575,Food,5170,UPI,5290.46
+2023-10-13,October,Bangalore,35227,Travel,8506,UPI,10101.89
+2024-02-07,February,Mumbai,43557,Rent,16817,Net Banking,17394.85
+2023-08-18,August,Bangalore,59562,Rent,20144,Debit Card,20466.42
+2024-08-07,August,Kolkata,74583,Education,3576,UPI,3827.28
+2023-09-25,September,Bangalore,68096,Rent,21029,UPI,20247.77
+2024-01-12,January,Delhi,40448,Health,4654,Cash,5379.45
+2023-02-27,February,Pune,45097,Travel,1328,Cash,1237.36
+2024-04-18,April,Pune,60975,Rent,21770,UPI,19593.96
+2023-02-03,February,Chennai,30200,Entertainment,3068,Cash,3301.46
+2023-06-11,June,Bangalore,64080,Others,2870,Debit Card,2679.06
+2024-07-02,July,Bangalore,64077,Others,1539,Debit Card,1840.95
+2023-11-13,November,Bangalore,71922,Rent,20939,Net Banking,19078.86
+2023-10-31,October,Mumbai,81010,Entertainment,7546,Credit Card,7635.3
+2024-01-02,January,Delhi,37533,Others,2642,UPI,2949.54
+2023-02-01,February,Kolkata,61383,Travel,3595,UPI,3872.51
+2023-06-22,June,Hyderabad,59103,Food,5900,Debit Card,6673.82
+2024-01-18,January,Chennai,54651,Others,2811,Net Banking,2817.24
+2023-07-23,July,Delhi,66991,Health,3224,Cash,3685.67
+2024-07-19,July,Delhi,62228,Rent,23609,Net Banking,25776.42
+2023-10-07,October,Delhi,70123,Entertainment,1602,Cash,1692.64
+2023-05-19,May,Chennai,82832,Rent,9871,Credit Card,11560.28
+2024-06-06,June,Pune,58681,Food,6959,Net Banking,7329.7
+2023-06-05,June,Pune,70100,Health,6196,Cash,6874.85
+2024-06-29,June,Bangalore,61619,Rent,22701,Cash,25888.35
+2023-11-19,November,Kolkata,66722,Others,540,Cash,552.91
+2023-08-22,August,Mumbai,51805,Travel,6136,Net Banking,5699.83
+2024-02-21,February,Hyderabad,57569,Health,2679,UPI,2475.82
+2023-12-09,December,Delhi,71607,Others,2953,Cash,3043.65
+2023-12-30,December,Hyderabad,59829,Others,679,Cash,801.1
+2023-10-31,October,Kolkata,67805,Education,3558,UPI,4217.0
+2024-05-30,May,Delhi,73143,Education,3715,Cash,3929.87
+2023-12-19,December,Mumbai,46637,Health,2677,UPI,3173.86
+2024-04-22,April,Pune,77828,Rent,12212,Net Banking,11542.94
+2023-02-09,February,Chennai,43593,Others,3269,Cash,3551.54
+2023-05-25,May,Mumbai,55299,Food,5865,Cash,5416.4
+2023-02-10,February,Hyderabad,36082,Health,3524,Credit Card,3501.76
+2024-07-02,July,Pune,97785,Food,9799,Debit Card,11311.45
+2023-11-30,November,Mumbai,56190,Entertainment,1473,Credit Card,1757.28
+2023-01-17,January,Delhi,40992,Others,2506,Cash,2877.23
+2024-06-07,June,Delhi,63547,Education,11187,Cash,13364.72
+2024-05-10,May,Hyderabad,34695,Entertainment,2075,Net Banking,2265.95
+2024-06-08,June,Pune,87273,Others,679,UPI,620.42
+2024-06-20,June,Mumbai,55179,Education,10100,Net Banking,10361.65
+2023-12-27,December,Pune,64308,Health,8590,Net Banking,10118.47
+2023-03-24,March,Kolkata,54887,Health,7795,UPI,7524.07
+2023-03-10,March,Delhi,100486,Travel,6702,UPI,7681.27
+2023-06-07,June,Kolkata,57646,Entertainment,6987,UPI,7036.98
+2024-02-11,February,Kolkata,85586,Education,10856,Debit Card,11303.27
+2023-01-11,January,Pune,58849,Food,6509,Credit Card,6491.9
+2024-05-13,May,Pune,67866,Health,1287,Debit Card,1290.64
+2023-11-09,November,Bangalore,53595,Education,6693,Credit Card,7342.96
+2023-12-06,December,Hyderabad,71127,Travel,8794,Net Banking,8253.61
+2024-03-02,March,Chennai,97923,Rent,21822,Credit Card,25105.58
+2024-07-03,July,Chennai,73127,Others,1901,Net Banking,2204.88
+2023-02-26,February,Pune,76653,Travel,3966,UPI,4287.4
+2024-01-15,January,Delhi,25240,Rent,20114,Cash,20472.4
+2023-07-10,July,Kolkata,49468,Education,9423,Net Banking,10476.84
+2024-04-06,April,Pune,60361,Others,727,Credit Card,693.25
+2024-02-12,February,Bangalore,38601,Food,9168,Debit Card,8255.13
+2024-04-01,April,Hyderabad,86757,Travel,6507,Debit Card,7331.1
+2023-12-16,December,Hyderabad,66330,Entertainment,5175,Credit Card,5132.68
+2024-03-04,March,Pune,59082,Education,9060,UPI,10586.29
+2024-05-06,May,Delhi,46167,Health,1094,Credit Card,1058.01
+2024-08-16,August,Bangalore,54383,Rent,14988,Debit Card,15352.51
+2023-04-15,April,Chennai,56005,Travel,2869,UPI,3255.33
+2023-01-27,January,Bangalore,81450,Others,1855,Debit Card,1773.35
+2023-08-26,August,Delhi,62448,Food,3753,Net Banking,3712.9
+2024-02-14,February,Bangalore,52407,Health,4764,UPI,4836.19
+2023-04-15,April,Kolkata,64298,Education,2748,Debit Card,2694.73
+2023-09-04,September,Hyderabad,86606,Travel,6299,Credit Card,6083.99
+2023-03-16,March,Kolkata,69761,Travel,3702,UPI,3372.93
+2023-11-03,November,Pune,40635,Entertainment,6969,Cash,6673.04
+2024-02-13,February,Chennai,68412,Others,3819,Net Banking,4003.18
+2023-05-18,May,Delhi,58785,Travel,3610,Credit Card,3404.1
+2024-02-24,February,Bangalore,69317,Entertainment,3552,Credit Card,3679.6
+2023-03-01,March,Pune,79571,Others,2087,Cash,2113.89
+2023-04-07,April,Chennai,93209,Education,9001,Credit Card,9158.38
+2023-05-14,May,Hyderabad,51846,Entertainment,4897,Credit Card,5818.65
+2024-02-29,February,Bangalore,57630,Health,6249,UPI,6213.86
+2024-02-14,February,Kolkata,91905,Food,9530,Debit Card,9112.49
+2024-07-26,July,Delhi,54667,Rent,24644,UPI,25683.12
+2023-04-17,April,Pune,78847,Entertainment,3449,Credit Card,3765.58
+2023-04-12,April,Delhi,40071,Entertainment,4071,Cash,4755.38
+2023-06-29,June,Pune,44866,Others,961,Credit Card,1136.22
+2023-05-20,May,Mumbai,47491,Others,542,Net Banking,616.96
+2023-07-19,July,Pune,96007,Travel,4238,Net Banking,3827.39
+2024-02-19,February,Delhi,66646,Travel,2075,Debit Card,2451.93
+2024-03-02,March,Hyderabad,57647,Health,706,UPI,842.98
+2023-02-21,February,Chennai,59577,Entertainment,7935,Debit Card,8061.87
+2023-03-09,March,Delhi,70835,Rent,22273,Debit Card,26465.99
+2023-10-04,October,Kolkata,45938,Health,8572,Net Banking,10029.99
+2024-08-08,August,Pune,44108,Travel,5012,Credit Card,4832.03
+2023-07-15,July,Delhi,63374,Education,10442,Cash,11054.27
+2023-02-17,February,Delhi,73397,Entertainment,7254,Cash,7029.7
+2023-12-22,December,Bangalore,68113,Rent,19051,UPI,18616.16
+2023-12-19,December,Mumbai,65657,Entertainment,4857,Cash,5630.59
+2023-11-02,November,Bangalore,74740,Health,7544,Credit Card,7199.83
+2023-09-16,September,Bangalore,77722,Health,2943,UPI,3271.01
+2023-08-15,August,Chennai,66793,Food,4557,Debit Card,4478.76
+2024-08-09,August,Delhi,62575,Food,2979,Net Banking,3454.69
+2023-01-18,January,Hyderabad,73914,Travel,11560,Credit Card,11991.23
+2023-04-15,April,Hyderabad,54965,Rent,14103,Net Banking,16389.78
+2023-03-21,March,Bangalore,56247,Food,2671,Cash,3038.83
+2024-05-09,May,Delhi,46099,Food,4252,Credit Card,4004.66
+2023-08-27,August,Mumbai,60208,Travel,14725,UPI,16970.62
+2023-03-18,March,Bangalore,73084,Health,5043,Net Banking,5303.18
+2023-07-11,July,Bangalore,25063,Entertainment,3560,Cash,3677.91
+2023-01-08,January,Mumbai,44824,Food,5774,Credit Card,5657.87
+2023-05-04,May,Bangalore,53863,Education,9852,Net Banking,10826.84
+2024-05-10,May,Pune,57952,Others,1981,Credit Card,2191.38
+2023-07-11,July,Chennai,37080,Travel,8154,UPI,7929.09
+2023-12-04,December,Mumbai,47825,Rent,22254,Cash,25996.6
+2024-08-05,August,Bangalore,70692,Food,2698,Net Banking,3198.45
+2023-04-25,April,Delhi,57532,Rent,22391,UPI,25645.89
+2024-06-25,June,Mumbai,76823,Others,4191,Debit Card,4482.41
+2023-12-29,December,Bangalore,62063,Others,2229,Credit Card,2430.72
+2023-01-26,January,Delhi,51727,Rent,24573,Credit Card,29068.56
+2024-06-03,June,Mumbai,55009,Entertainment,1019,Cash,1050.01
+2023-12-05,December,Delhi,90408,Food,9853,Credit Card,11311.37
+2024-07-02,July,Hyderabad,52131,Health,8588,Debit Card,9972.78
+2023-02-19,February,Mumbai,46851,Others,4562,Net Banking,5157.0
+2023-12-30,December,Chennai,71902,Health,1070,Net Banking,1252.23
+2024-08-23,August,Bangalore,48292,Travel,5273,Cash,5964.13
+2024-04-03,April,Mumbai,62489,Food,6204,Net Banking,7111.33
+2023-07-31,July,Delhi,39567,Rent,9789,Credit Card,8959.13
+2024-08-03,August,Kolkata,22431,Travel,6527,Net Banking,5917.31
+2023-08-02,August,Kolkata,53615,Health,6137,UPI,5529.79
+2024-06-19,June,Delhi,65088,Education,3361,Debit Card,3899.5
+2023-08-12,August,Pune,55476,Health,2236,UPI,2471.7
+2023-10-25,October,Bangalore,62230,Travel,5924,UPI,6420.65
+2024-03-27,March,Chennai,79887,Entertainment,5965,UPI,6270.14
+2024-04-12,April,Bangalore,72958,Health,1561,Cash,1771.0
+2023-10-16,October,Hyderabad,45069,Education,5012,Debit Card,4549.76
+2023-09-10,September,Bangalore,57368,Others,4059,Credit Card,4436.95
+2023-03-31,March,Delhi,57350,Health,1832,Cash,2072.93
+2024-07-03,July,Hyderabad,61161,Education,11809,Credit Card,12661.54
+2024-04-24,April,Delhi,75100,Travel,11748,Cash,12629.63
+2024-01-11,January,Pune,45693,Food,4343,Debit Card,4830.75
+2024-03-20,March,Chennai,40276,Entertainment,6297,Debit Card,6195.56
+2023-01-02,January,Mumbai,67031,Food,7094,Net Banking,7464.45
+2023-08-18,August,Hyderabad,62349,Education,7722,Net Banking,8883.07
+2023-09-30,September,Hyderabad,50286,Education,10280,UPI,11559.99
+2023-04-28,April,Delhi,74702,Education,2014,Net Banking,2377.1
+2023-12-17,December,Delhi,71554,Education,2273,Net Banking,2641.2
+2023-02-24,February,Pune,71271,Entertainment,7453,UPI,7159.47
+2023-09-16,September,Pune,35312,Rent,10000,Credit Card,9611.57
+2024-04-12,April,Kolkata,79369,Entertainment,5129,Credit Card,5284.72
+2023-07-10,July,Chennai,40307,Others,1979,Net Banking,2175.19
+2023-06-23,June,Pune,59485,Education,7734,Debit Card,8551.92
+2023-04-01,April,Bangalore,69313,Rent,11782,Net Banking,12073.61
+2024-06-28,June,Pune,70647,Food,6560,Net Banking,6259.85
+2024-02-27,February,Mumbai,41709,Travel,8068,Net Banking,7325.49
+2024-04-12,April,Chennai,26124,Others,584,Net Banking,636.83
+2024-07-18,July,Delhi,39624,Travel,8253,Net Banking,9732.32
+2024-05-01,May,Delhi,77148,Others,2630,Debit Card,2974.32
+2024-02-28,February,Delhi,47344,Entertainment,561,Credit Card,532.75
+2023-08-03,August,Chennai,86181,Rent,13520,Net Banking,16191.34
+2024-01-01,January,Hyderabad,61720,Health,5260,Net Banking,5261.84
+2024-06-11,June,Delhi,65847,Health,8739,Cash,10413.65
+2023-04-29,April,Delhi,71933,Rent,14652,Debit Card,15596.58
+2023-05-10,May,Hyderabad,46209,Rent,12799,Cash,11588.5
+2023-07-20,July,Kolkata,45345,Travel,8576,Debit Card,8221.15
+2023-03-17,March,Pune,57475,Entertainment,3255,Cash,3659.25
+2023-03-11,March,Delhi,41703,Rent,24919,Credit Card,22635.17
+2023-05-19,May,Bangalore,65984,Entertainment,7563,Net Banking,8456.2
+2023-05-31,May,Mumbai,37420,Others,1571,Cash,1725.37
+2023-08-07,August,Hyderabad,64602,Travel,5529,Net Banking,6502.56
+2023-12-03,December,Mumbai,42765,Health,8848,Debit Card,8659.73
+2023-04-07,April,Delhi,31241,Others,3445,Debit Card,3815.44
+2024-05-26,May,Chennai,53966,Rent,21248,Credit Card,19785.59
+2024-06-07,June,Pune,65137,Health,9746,Debit Card,9054.18
+2024-01-28,January,Chennai,62120,Education,2622,Net Banking,2754.99
+2023-10-24,October,Pune,70311,Others,1604,Cash,1792.69
+2023-03-09,March,Bangalore,80936,Travel,10496,Debit Card,10680.8
+2023-03-28,March,Hyderabad,69158,Rent,24637,Net Banking,27669.14
+2024-02-16,February,Delhi,62530,Others,3134,Cash,3223.09
+2024-02-09,February,Chennai,58218,Travel,6207,Net Banking,7396.71
+2024-06-16,June,Bangalore,54120,Travel,13357,Credit Card,15410.01
+2023-03-11,March,Pune,58128,Others,1461,Debit Card,1373.19
+2024-02-19,February,Delhi,57275,Health,1686,Debit Card,1819.72
+2023-06-08,June,Delhi,58544,Others,1536,UPI,1628.55
+2023-08-09,August,Pune,87719,Rent,11206,Cash,12177.34
+2023-06-14,June,Kolkata,66540,Others,3799,Net Banking,3843.78
+2024-05-18,May,Hyderabad,49969,Others,3378,Net Banking,3822.73
+2023-01-29,January,Chennai,50882,Health,5660,Cash,5996.21
+2023-12-19,December,Bangalore,80063,Others,1292,Credit Card,1290.58
+2023-03-03,March,Mumbai,72489,Health,1791,Net Banking,1776.44
+2023-06-28,June,Kolkata,47309,Travel,8933,Cash,9836.73
+2024-06-29,June,Mumbai,61663,Health,1535,Net Banking,1397.37
+2024-02-19,February,Delhi,50072,Entertainment,757,Net Banking,902.67
+2023-02-13,February,Bangalore,76383,Travel,6529,UPI,7803.51
+2023-08-18,August,Kolkata,62478,Others,2758,UPI,2613.58
+2024-04-20,April,Kolkata,76410,Rent,18390,Cash,18574.36
+2023-11-30,November,Pune,69400,Health,8731,Net Banking,8406.17
+2023-03-01,March,Hyderabad,48864,Others,4870,Net Banking,4938.33
+2023-06-19,June,Chennai,60655,Rent,21629,Cash,22681.97
+2023-09-11,September,Chennai,48803,Others,4088,Cash,4369.41
+2023-04-15,April,Delhi,49382,Travel,1393,Debit Card,1308.49
+2023-05-17,May,Delhi,72093,Education,3329,Net Banking,3738.72
+2023-11-14,November,Pune,45079,Food,5291,UPI,5632.81
+2023-06-16,June,Hyderabad,63472,Education,8656,Credit Card,10218.87
+2024-06-20,June,Hyderabad,55631,Health,2364,Debit Card,2170.72
+2023-05-03,May,Delhi,73779,Entertainment,5282,Credit Card,6154.48
+2023-01-19,January,Kolkata,63433,Health,1394,UPI,1491.27
+2023-05-26,May,Pune,54183,Entertainment,1406,UPI,1382.17
+2024-02-06,February,Chennai,83356,Travel,5218,Net Banking,5382.43
+2023-08-26,August,Hyderabad,53416,Travel,10852,Debit Card,11298.98
+2023-08-22,August,Mumbai,69924,Education,4643,Cash,4411.66
+2023-02-19,February,Mumbai,43829,Health,4883,UPI,4617.93
+2023-08-25,August,Mumbai,56587,Entertainment,4825,Cash,4879.3
+2024-06-16,June,Chennai,44879,Entertainment,3157,Cash,3377.68
+2023-06-28,June,Delhi,52407,Travel,14446,Credit Card,14354.27
+2024-02-29,February,Hyderabad,69110,Others,4191,Debit Card,4658.26
+2023-03-06,March,Hyderabad,46729,Health,5112,Debit Card,5039.5
+2023-04-08,April,Hyderabad,50101,Entertainment,2354,Debit Card,2721.14
+2023-12-13,December,Delhi,62511,Food,8899,Cash,8307.31
+2024-05-14,May,Bangalore,83870,Others,1115,Cash,1142.54
+2023-02-08,February,Hyderabad,53776,Others,4293,Cash,4176.22
+2023-04-04,April,Kolkata,66091,Others,1628,Debit Card,1905.38
+2023-05-10,May,Mumbai,69806,Entertainment,4837,UPI,5543.47
+2023-06-02,June,Hyderabad,71811,Others,1015,Debit Card,1186.6
+2024-07-19,July,Mumbai,52796,Entertainment,3467,Cash,3689.17
+2023-04-06,April,Kolkata,90301,Travel,12228,Credit Card,13403.26
+2023-09-03,September,Mumbai,52902,Entertainment,3822,Cash,4352.84
+2023-10-28,October,Mumbai,61339,Rent,18709,UPI,19838.71
+2023-01-19,January,Kolkata,72901,Food,5334,Net Banking,4880.25
+2024-02-24,February,Pune,44308,Rent,24765,Net Banking,28060.92
+2023-07-26,July,Pune,39855,Travel,13787,Credit Card,15796.74
+2024-06-04,June,Mumbai,73902,Food,6317,Net Banking,7019.36
+2023-01-20,January,Kolkata,36919,Food,5769,Credit Card,5270.62
+2023-08-23,August,Bangalore,64490,Health,5471,Cash,6107.64
+2024-08-08,August,Bangalore,61814,Travel,2098,Credit Card,1938.63
+2023-08-03,August,Chennai,25209,Health,8928,Credit Card,8805.94
+2023-06-14,June,Pune,55159,Food,9335,Credit Card,11126.68
+2023-08-12,August,Mumbai,79568,Health,4427,Credit Card,4446.47
+2023-05-13,May,Pune,71251,Rent,8158,Debit Card,8356.98
+2023-09-10,September,Pune,58570,Others,4753,Cash,4890.03
+2023-03-03,March,Hyderabad,57486,Health,6058,Credit Card,6762.43
+2023-09-01,September,Kolkata,86503,Rent,22888,Net Banking,27166.83
+2023-12-30,December,Pune,64702,Health,6414,UPI,6965.53
+2024-01-06,January,Chennai,45408,Health,2017,UPI,2128.7
+2023-02-07,February,Kolkata,102880,Travel,7147,Cash,7814.86
+2023-08-15,August,Hyderabad,62299,Others,536,Cash,551.4
+2024-02-19,February,Bangalore,60790,Food,2113,Debit Card,2084.42
+2024-06-23,June,Kolkata,77030,Education,7968,UPI,8118.28
+2023-09-13,September,Mumbai,40721,Education,6565,UPI,6764.72
+2023-12-17,December,Delhi,73874,Entertainment,1366,Credit Card,1265.21
+2023-07-26,July,Kolkata,72829,Rent,8422,Cash,8699.89
+2023-08-24,August,Hyderabad,61719,Education,7284,Debit Card,6821.89
+2023-09-12,September,Bangalore,69800,Health,6179,Net Banking,6557.3
+2024-05-03,May,Bangalore,56946,Education,6566,UPI,6851.55
+2024-08-13,August,Kolkata,54742,Health,6940,Net Banking,8006.7
+2023-01-27,January,Chennai,66991,Education,2883,Net Banking,3434.78
+2023-05-29,May,Kolkata,68123,Food,8240,Net Banking,9540.63
+2023-09-29,September,Pune,85240,Others,2577,Credit Card,2447.02
+2024-01-28,January,Delhi,37216,Food,6801,Credit Card,6605.57
+2024-07-10,July,Hyderabad,66685,Education,4570,Cash,5338.68
+2023-04-17,April,Delhi,54769,Rent,22837,UPI,22402.17
+2023-09-17,September,Kolkata,64677,Entertainment,6673,Cash,6579.58
+2023-01-24,January,Chennai,56925,Rent,20082,Debit Card,19974.86
+2023-12-27,December,Hyderabad,54052,Rent,15179,Debit Card,14540.95
+2023-12-14,December,Chennai,46298,Food,4886,Net Banking,4461.3
+2024-06-22,June,Pune,77125,Rent,23078,Credit Card,23549.73
+2023-03-21,March,Pune,69308,Entertainment,5708,Cash,6494.11
+2024-01-09,January,Hyderabad,55776,Travel,10934,Net Banking,12319.94
+2024-08-07,August,Delhi,54590,Travel,11808,Credit Card,14004.07
+2023-04-16,April,Mumbai,75115,Travel,13238,Net Banking,14106.29
+2024-02-25,February,Mumbai,53139,Health,3834,UPI,3792.98
+2023-04-13,April,Chennai,65298,Education,9612,Net Banking,9352.27
+2023-04-26,April,Kolkata,74709,Travel,14295,Net Banking,17073.54
+2024-01-17,January,Hyderabad,47464,Rent,8552,Debit Card,8363.62
+2023-05-18,May,Delhi,81967,Entertainment,3782,Net Banking,3405.1
+2023-09-29,September,Bangalore,71509,Travel,1055,Credit Card,1113.74
+2023-08-02,August,Kolkata,84867,Entertainment,1456,Credit Card,1604.72
+2023-10-22,October,Delhi,64739,Health,6773,Credit Card,7269.72
+2024-06-03,June,Delhi,57765,Rent,10544,UPI,11621.28
+2024-02-15,February,Chennai,66047,Travel,12058,Debit Card,11343.99
+2023-06-24,June,Bangalore,49789,Entertainment,6798,UPI,6615.39
+2023-10-21,October,Kolkata,65955,Education,7636,Debit Card,7249.81
+2023-07-17,July,Pune,76192,Travel,3474,Cash,3950.27
+2024-03-08,March,Bangalore,43087,Others,2949,Net Banking,3427.1
+2023-10-22,October,Mumbai,72156,Entertainment,4795,Net Banking,4640.07
+2024-05-22,May,Bangalore,63992,Health,2458,Debit Card,2849.63
+2023-04-01,April,Chennai,32512,Entertainment,6371,Cash,6137.6
+2023-07-29,July,Pune,61622,Education,7602,Cash,8483.21
+2024-05-20,May,Delhi,82972,Education,5379,Net Banking,5277.87
+2024-02-01,February,Delhi,73686,Education,11764,UPI,12236.0
+2023-01-24,January,Delhi,68142,Travel,3107,UPI,3163.55
+2023-05-06,May,Chennai,66584,Education,2922,Net Banking,3132.42
+2023-08-30,August,Chennai,55011,Entertainment,701,Credit Card,645.34
+2023-03-26,March,Chennai,40978,Others,4545,Credit Card,5063.35
+2023-11-16,November,Delhi,57327,Others,935,UPI,894.79
+2023-12-18,December,Hyderabad,46420,Travel,13930,Net Banking,16391.99
+2024-06-20,June,Bangalore,50704,Entertainment,1306,Net Banking,1395.98
+2024-03-28,March,Hyderabad,86030,Rent,18033,Debit Card,20458.6
+2023-05-09,May,Hyderabad,71034,Travel,2637,Debit Card,2588.99
+2023-03-09,March,Pune,48708,Education,6517,Net Banking,6787.18
+2024-05-25,May,Mumbai,41939,Education,10865,Debit Card,12195.11
+2023-09-07,September,Bangalore,72581,Entertainment,3871,UPI,4460.49
+2023-07-21,July,Chennai,66996,Others,1892,UPI,1795.37
+2024-06-15,June,Chennai,44929,Travel,11930,Debit Card,12183.66
+2024-05-19,May,Hyderabad,82622,Health,9412,Net Banking,9137.8
+2024-04-17,April,Mumbai,56581,Education,3934,UPI,3757.1
+2023-09-12,September,Pune,30276,Others,4696,Cash,4476.96
+2023-04-06,April,Bangalore,76937,Health,609,Net Banking,714.25
+2024-07-05,July,Pune,45820,Food,6788,UPI,7796.7
+2024-08-01,August,Bangalore,46123,Entertainment,3120,Credit Card,3105.58
+2023-02-21,February,Hyderabad,42352,Food,9046,UPI,8400.58
+2023-08-10,August,Bangalore,66590,Health,7095,Credit Card,6691.09
+2024-04-08,April,Kolkata,63243,Others,2844,Cash,2903.51
+2023-08-12,August,Hyderabad,60763,Food,6536,Credit Card,7526.73
+2024-04-29,April,Kolkata,67199,Entertainment,5640,Debit Card,6131.13
+2023-08-04,August,Bangalore,78805,Travel,12330,Debit Card,13224.45
+2023-06-25,June,Mumbai,72321,Health,5008,Debit Card,5408.91
+2024-01-20,January,Chennai,38617,Health,843,Credit Card,874.83
+2024-05-06,May,Pune,51561,Entertainment,6243,Debit Card,6550.15
+2023-01-05,January,Mumbai,30744,Food,6725,Cash,6725.45
+2023-02-23,February,Mumbai,72204,Entertainment,6348,UPI,7091.7
+2023-04-15,April,Pune,45956,Others,2128,Net Banking,2501.47
+2024-08-12,August,Bangalore,47841,Rent,15917,Debit Card,16830.0
+2023-01-27,January,Pune,43021,Food,7784,UPI,8873.78
+2024-07-22,July,Bangalore,42487,Travel,13204,UPI,14129.8
+2023-08-20,August,Kolkata,62077,Entertainment,2910,Cash,2884.2
+2023-04-05,April,Chennai,59283,Travel,11819,Net Banking,13485.52
+2023-06-30,June,Chennai,50770,Entertainment,1820,Credit Card,1972.49
+2024-07-04,July,Hyderabad,68795,Food,8243,UPI,9092.21
+2023-06-20,June,Hyderabad,58871,Education,2975,Cash,3184.64
+2024-07-22,July,Delhi,56061,Rent,22915,Debit Card,23653.92
+2023-12-21,December,Hyderabad,46921,Food,3159,Debit Card,2940.3
+2023-06-01,June,Delhi,49583,Education,2931,Credit Card,2796.01
+2024-02-23,February,Hyderabad,50960,Travel,9440,Credit Card,11232.03
+2023-03-21,March,Pune,56680,Entertainment,4669,Cash,5003.7
+2023-07-21,July,Bangalore,73025,Others,2842,Cash,3219.77
+2024-03-25,March,Pune,84839,Education,7457,Debit Card,8727.21
+2023-07-31,July,Mumbai,53023,Health,6538,Cash,6201.21
+2023-01-16,January,Pune,52480,Education,3756,Credit Card,4034.56
+2023-12-02,December,Bangalore,79080,Travel,7938,UPI,8028.22
+2023-07-22,July,Pune,80845,Entertainment,3866,Credit Card,4404.06
+2023-12-30,December,Pune,67854,Rent,10403,UPI,10111.82
+2023-02-14,February,Chennai,60921,Food,3832,Cash,4534.92
+2023-09-06,September,Kolkata,53710,Health,6606,Debit Card,6760.52
+2023-01-26,January,Pune,85525,Travel,10930,Credit Card,10081.88
+2023-12-11,December,Hyderabad,70807,Food,4471,Cash,4340.73
+2023-08-28,August,Mumbai,48363,Food,3877,Credit Card,3651.71
+2023-02-11,February,Hyderabad,61695,Health,4908,Net Banking,4763.68
+2024-06-23,June,Delhi,52975,Travel,10273,Net Banking,10131.99
+2023-06-17,June,Mumbai,54919,Education,8132,Debit Card,8826.88
+2023-04-25,April,Kolkata,37148,Travel,1933,Credit Card,2245.73
+2023-04-06,April,Kolkata,84860,Food,2025,Cash,2299.34
+2023-10-08,October,Kolkata,85139,Education,3198,Credit Card,3127.24
+2023-11-12,November,Delhi,56429,Travel,2871,Net Banking,3370.89
+2023-02-25,February,Kolkata,98115,Entertainment,5762,Net Banking,5297.84
+2023-04-09,April,Mumbai,58003,Education,2420,Debit Card,2424.88
+2024-05-28,May,Delhi,57154,Rent,12311,Net Banking,12451.57
+2023-03-31,March,Pune,89381,Travel,2245,Net Banking,2193.73
+2023-07-16,July,Kolkata,64563,Education,6216,Debit Card,7058.6
+2024-06-07,June,Pune,67114,Rent,23681,Debit Card,21777.25
+2024-01-29,January,Pune,78255,Travel,9253,Credit Card,8424.63
+2024-06-03,June,Pune,66180,Rent,13171,Net Banking,13765.17
+2024-03-09,March,Chennai,54332,Health,9596,Net Banking,11469.83
+2023-09-15,September,Chennai,64139,Travel,11806,Cash,11834.36
+2024-06-26,June,Mumbai,56400,Education,7825,UPI,9333.42
+2023-06-16,June,Bangalore,67378,Entertainment,6806,Credit Card,7697.91
+2023-02-08,February,Bangalore,39431,Others,4559,Cash,4217.96
+2023-03-10,March,Mumbai,72940,Travel,1170,Debit Card,1296.15
+2024-08-22,August,Bangalore,88988,Food,3600,UPI,3529.23
+2023-12-16,December,Bangalore,55821,Entertainment,6145,Credit Card,6906.7
+2023-08-10,August,Delhi,69970,Entertainment,7286,Debit Card,7389.58
+2024-03-10,March,Delhi,41116,Food,3084,Credit Card,3661.32
+2024-01-18,January,Bangalore,48021,Food,3763,Debit Card,4212.14
+2023-01-28,January,Mumbai,79044,Education,2876,Credit Card,2875.5
+2023-09-26,September,Pune,54608,Entertainment,5036,Credit Card,5848.88
+2024-05-19,May,Delhi,76625,Education,11832,Net Banking,12039.76
+2023-01-21,January,Delhi,54949,Health,9804,UPI,11255.81
+2024-02-17,February,Delhi,40019,Health,2318,Credit Card,2287.19
+2023-01-19,January,Delhi,48084,Others,1841,UPI,2187.75
+2023-04-25,April,Kolkata,68487,Food,3830,Credit Card,4243.35
+2024-05-27,May,Bangalore,77472,Health,5321,Credit Card,6052.43
+2024-01-15,January,Chennai,47765,Rent,21298,Net Banking,20241.52
+2023-09-05,September,Kolkata,60995,Travel,13699,Net Banking,14527.92
+2023-10-17,October,Kolkata,88949,Others,3576,UPI,3659.76
+2023-05-22,May,Kolkata,71433,Health,7874,Debit Card,8586.46
+2024-07-23,July,Hyderabad,60848,Rent,21886,Credit Card,20121.38
+2023-01-11,January,Hyderabad,68046,Others,2542,Credit Card,2859.85
+2023-01-10,January,Chennai,62204,Health,2553,Net Banking,2758.21
+2023-09-21,September,Kolkata,77465,Others,2905,Net Banking,2915.76
+2024-03-23,March,Kolkata,75523,Food,9608,Cash,8882.39
+2024-08-02,August,Mumbai,52061,Health,3566,Credit Card,3493.42
+2023-01-26,January,Kolkata,87164,Food,9191,Debit Card,10146.6
+2023-08-02,August,Kolkata,80323,Health,3977,UPI,3678.93
+2023-02-19,February,Bangalore,39948,Rent,19525,Net Banking,18508.23
+2023-03-30,March,Mumbai,61217,Others,3868,UPI,3889.14
+2023-10-03,October,Delhi,62548,Rent,11471,Debit Card,10346.62
+2023-08-09,August,Chennai,72215,Rent,12215,UPI,11093.96
+2023-05-05,May,Chennai,76671,Health,9663,Net Banking,11199.63
+2024-02-09,February,Hyderabad,67361,Health,2814,Cash,3182.64
+2023-06-18,June,Delhi,59479,Food,3640,UPI,3979.43
+2024-08-20,August,Delhi,28428,Others,2251,Credit Card,2637.36
+2023-03-20,March,Pune,69758,Entertainment,3105,UPI,3558.33
+2023-02-05,February,Bangalore,40205,Entertainment,2599,Cash,2407.12
+2023-04-24,April,Bangalore,80831,Travel,5476,Cash,5754.14
+2024-07-07,July,Bangalore,94387,Others,2603,Cash,2392.98
+2023-11-29,November,Delhi,104317,Food,5011,Debit Card,4724.0
+2024-03-13,March,Pune,83858,Food,8797,Credit Card,8253.63
+2023-07-08,July,Hyderabad,67199,Health,4400,Net Banking,4951.97
+2023-06-26,June,Kolkata,85685,Travel,8437,Debit Card,7682.9
+2023-02-18,February,Chennai,66854,Health,5363,Cash,5772.9
+2024-07-06,July,Kolkata,46494,Travel,6370,Cash,7617.73
+2024-06-27,June,Pune,72850,Food,8604,Net Banking,8151.44
+2024-01-26,January,Hyderabad,69747,Food,2062,Cash,2281.17
+2024-01-23,January,Chennai,52425,Education,11013,Credit Card,11759.57
+2024-06-25,June,Hyderabad,40669,Entertainment,3249,Net Banking,3835.24
+2024-01-28,January,Bangalore,38479,Rent,19263,Credit Card,18587.24
+2023-09-30,September,Chennai,38136,Rent,18805,UPI,17639.31
+2023-01-15,January,Hyderabad,45091,Travel,3869,Debit Card,3616.58
+2024-01-16,January,Kolkata,67612,Entertainment,1661,Net Banking,1508.58
+2023-08-09,August,Hyderabad,58683,Rent,9481,Credit Card,9574.59
+2023-09-20,September,Mumbai,66776,Entertainment,4271,Net Banking,5019.78
+2024-07-26,July,Pune,39116,Food,3850,Net Banking,4523.68
+2023-09-05,September,Chennai,60465,Others,1801,Debit Card,1929.25
+2024-01-17,January,Hyderabad,72661,Travel,14110,Debit Card,16251.1
+2023-08-20,August,Mumbai,57087,Others,3401,Net Banking,3752.3
+2023-03-31,March,Chennai,71867,Education,10427,Debit Card,10211.27
+2023-04-12,April,Bangalore,59513,Entertainment,5271,Debit Card,5530.95
+2024-02-21,February,Mumbai,55157,Travel,3560,Debit Card,4206.26
+2024-03-10,March,Hyderabad,57522,Health,8849,Cash,8277.48
+2023-03-31,March,Pune,38041,Travel,10400,Debit Card,9449.11
+2024-07-14,July,Chennai,41030,Rent,13348,Net Banking,12440.68
+2023-10-15,October,Chennai,74265,Entertainment,1471,Net Banking,1344.89
+2024-03-31,March,Pune,77572,Food,7379,Debit Card,7265.1
+2023-02-25,February,Mumbai,72515,Education,7804,Cash,8320.87
+2024-08-08,August,Kolkata,42160,Food,8452,Cash,8119.66
+2024-06-03,June,Chennai,59328,Food,7382,Cash,8390.08
+2023-04-04,April,Mumbai,39002,Entertainment,2835,Net Banking,2660.88
+2023-08-18,August,Pune,54345,Health,5947,Debit Card,7135.87
+2024-01-18,January,Delhi,49558,Others,652,UPI,774.0
+2024-03-02,March,Chennai,83990,Entertainment,6587,Cash,6687.69
+2023-01-15,January,Chennai,56325,Food,4731,Credit Card,5602.64
+2023-08-05,August,Mumbai,52088,Food,9752,Debit Card,9995.97
+2023-06-08,June,Bangalore,65557,Travel,13510,Cash,12968.12
+2024-06-29,June,Chennai,62452,Others,2347,Cash,2179.73
+2023-04-10,April,Pune,40279,Entertainment,1718,Debit Card,1571.96
+2023-09-25,September,Kolkata,69392,Others,4245,Debit Card,4033.62
+2023-06-19,June,Kolkata,70324,Food,7207,Net Banking,7604.83
+2023-03-04,March,Pune,13963,Others,484,Net Banking,578.49
+2024-07-15,July,Mumbai,44943,Others,1216,UPI,1165.79
+2023-12-17,December,Chennai,96928,Others,4971,Net Banking,5934.85
+2023-08-24,August,Hyderabad,73977,Health,3770,Cash,4356.26
+2023-07-20,July,Chennai,46500,Others,2606,UPI,2500.92
+2023-08-06,August,Chennai,72628,Health,2269,Net Banking,2084.53
+2023-12-13,December,Hyderabad,51010,Health,3930,UPI,3954.41
+2024-01-27,January,Chennai,81290,Education,5406,Net Banking,5485.91
+2024-07-09,July,Bangalore,33540,Rent,22373,Debit Card,23731.36
+2023-02-02,February,Pune,66610,Others,2610,Credit Card,2683.87
+2024-02-19,February,Delhi,58589,Health,7518,Cash,7110.0
+2024-08-02,August,Kolkata,86541,Food,3070,Credit Card,3473.22
+2023-04-24,April,Hyderabad,51220,Food,2960,Debit Card,3528.96
+2023-03-02,March,Delhi,34089,Health,1695,Credit Card,1677.72
+2024-08-09,August,Pune,36370,Travel,11118,Debit Card,12098.25
+2024-07-19,July,Mumbai,56232,Rent,19604,Net Banking,18539.24
+2023-11-10,November,Pune,83597,Health,6343,Net Banking,7016.37
+2024-04-22,April,Delhi,72490,Health,6305,Debit Card,6471.79
+2023-03-22,March,Bangalore,90501,Education,5674,Cash,5470.11
+2023-03-20,March,Delhi,40787,Entertainment,5370,Credit Card,5379.38
+2023-02-26,February,Pune,71987,Health,8068,Cash,8375.33
+2023-04-25,April,Chennai,70445,Food,7948,UPI,8150.11
+2023-06-15,June,Mumbai,86143,Education,10091,UPI,10731.47
+2023-09-05,September,Delhi,60006,Entertainment,6617,Cash,7127.0
+2024-08-18,August,Delhi,59346,Food,9381,Credit Card,9992.11
+2023-01-20,January,Bangalore,70281,Rent,20246,Cash,20069.02
+2023-11-07,November,Chennai,70058,Entertainment,2897,UPI,3377.94
+2024-02-22,February,Pune,57081,Food,7583,Net Banking,9072.86
+2024-04-25,April,Kolkata,104959,Others,1000,Debit Card,1050.6
+2024-05-04,May,Pune,62755,Education,6237,Cash,6866.95
+2023-08-22,August,Bangalore,55957,Education,3925,UPI,4698.57
+2024-06-07,June,Delhi,62256,Food,4025,Net Banking,4582.85
+2023-12-13,December,Mumbai,90538,Rent,23213,Credit Card,26527.04
+2023-11-16,November,Mumbai,59554,Entertainment,7569,Cash,7977.55
+2024-06-03,June,Delhi,44354,Rent,18691,Credit Card,21594.35
+2024-02-29,February,Kolkata,63882,Education,9498,Net Banking,9949.97
+2024-06-02,June,Chennai,57631,Education,7850,UPI,7083.64
+2024-02-15,February,Kolkata,51843,Education,10875,Credit Card,10003.69
+2023-04-11,April,Bangalore,64011,Others,2586,Debit Card,2591.42
+2024-04-23,April,Kolkata,36389,Travel,3470,Debit Card,3700.15
+2023-05-08,May,Delhi,47660,Health,9603,Cash,10322.47
+2023-04-12,April,Kolkata,64356,Food,9063,Credit Card,10854.22
+2024-02-14,February,Kolkata,45021,Food,7424,Cash,6709.81
+2023-02-24,February,Kolkata,73115,Entertainment,2192,Credit Card,2149.5
+2023-10-14,October,Pune,54253,Others,2802,Debit Card,2765.04
+2023-03-15,March,Mumbai,89543,Education,6856,Net Banking,7228.29
+2024-01-03,January,Hyderabad,86258,Education,3377,Debit Card,3823.33
+2024-02-01,February,Chennai,81615,Others,2334,UPI,2742.08
+2023-01-18,January,Mumbai,69955,Health,4033,Cash,4404.17
+2023-01-23,January,Chennai,85418,Food,4198,Net Banking,4452.89
+2024-04-07,April,Hyderabad,36515,Travel,10558,Cash,11799.07
+2023-08-24,August,Kolkata,35532,Health,5591,UPI,5396.2
+2024-02-07,February,Mumbai,82132,Travel,13445,Debit Card,13494.24
+2023-06-21,June,Pune,46718,Food,6513,Net Banking,6181.35
+2023-07-14,July,Pune,52356,Entertainment,6508,Cash,6754.44
+2023-04-25,April,Bangalore,54099,Education,3590,Debit Card,3839.9
+2023-07-05,July,Hyderabad,64286,Food,6898,Cash,7414.51
+2023-01-06,January,Delhi,57544,Others,2309,Credit Card,2550.69
+2023-05-20,May,Mumbai,74337,Entertainment,4967,Debit Card,5123.28
+2023-06-16,June,Delhi,47677,Education,6014,UPI,5681.44
+2024-08-09,August,Chennai,66165,Travel,7932,Net Banking,7285.57
+2024-08-10,August,Mumbai,72162,Health,7108,Credit Card,8220.6
+2023-04-03,April,Mumbai,43644,Education,2819,Debit Card,2731.79
+2023-12-07,December,Bangalore,60436,Education,10623,Net Banking,10593.69
+2023-09-11,September,Delhi,75353,Others,3193,Cash,3106.75
+2024-05-13,May,Mumbai,76267,Entertainment,5961,Cash,5369.4
+2024-08-03,August,Delhi,75341,Rent,16348,UPI,17815.19
+2023-03-07,March,Kolkata,46279,Food,4328,Cash,4881.69
+2023-12-27,December,Hyderabad,56538,Travel,8073,Debit Card,9627.23
+2023-10-27,October,Chennai,34190,Food,3122,Credit Card,3000.98
+2023-08-13,August,Mumbai,76178,Travel,3040,Credit Card,3492.58
+2023-03-20,March,Delhi,32572,Others,4714,Cash,4532.75
+2023-11-28,November,Pune,45669,Entertainment,5559,Credit Card,5214.6
+2023-05-02,May,Chennai,81218,Food,6816,Net Banking,7986.7
+2023-07-30,July,Bangalore,73327,Rent,24412,Net Banking,29253.01
+2024-03-06,March,Mumbai,66942,Health,7682,Net Banking,7971.55
+2024-04-09,April,Mumbai,56883,Health,8145,Debit Card,7751.18
+2023-02-08,February,Bangalore,36284,Health,1131,Credit Card,1263.35
+2024-05-30,May,Mumbai,42849,Education,4647,Cash,5247.02
+2024-02-25,February,Delhi,44425,Health,1490,Cash,1718.91
+2024-07-30,July,Hyderabad,46945,Rent,15330,Credit Card,16244.42
+2024-05-05,May,Pune,29166,Others,2307,Debit Card,2445.87
+2023-05-13,May,Kolkata,71185,Rent,18239,Net Banking,18057.96
+2024-04-07,April,Mumbai,71898,Travel,13951,Credit Card,15191.22
+2023-10-15,October,Delhi,71330,Travel,8610,UPI,9636.99
+2024-02-07,February,Mumbai,54727,Entertainment,2535,UPI,2296.77
+2024-05-20,May,Bangalore,67144,Health,3990,Credit Card,4568.92
+2023-10-18,October,Delhi,27225,Travel,3341,Cash,3157.57
+2023-09-16,September,Chennai,84677,Food,3239,Cash,2928.88
+2023-11-14,November,Kolkata,43597,Education,6452,UPI,6843.43
+2023-10-15,October,Delhi,58654,Others,1642,Net Banking,1788.44
+2023-04-16,April,Mumbai,57208,Entertainment,4407,Debit Card,4501.23
+2024-06-11,June,Mumbai,67121,Rent,14100,UPI,13678.35
+2024-03-10,March,Bangalore,67708,Rent,19562,Debit Card,18785.79
+2023-01-14,January,Mumbai,48772,Entertainment,663,UPI,729.35
+2023-11-17,November,Delhi,55653,Rent,13107,Net Banking,15520.13
+2023-06-15,June,Hyderabad,84360,Travel,6290,UPI,6356.41
+2024-01-31,January,Hyderabad,60196,Food,5512,Debit Card,5938.22
+2023-05-14,May,Mumbai,90579,Health,1348,Cash,1281.16
+2024-08-12,August,Delhi,53578,Entertainment,5962,Cash,5420.69
+2024-05-16,May,Delhi,45395,Travel,13878,UPI,14651.53
+2023-05-03,May,Hyderabad,51741,Health,7187,Net Banking,8568.38
+2024-06-25,June,Delhi,55593,Others,3409,Cash,3990.7
+2023-02-01,February,Bangalore,65268,Health,5786,Cash,5300.51
+2024-04-20,April,Mumbai,63580,Health,5584,Cash,5216.84
+2023-08-03,August,Mumbai,53647,Others,4914,Credit Card,5458.1
+2024-06-28,June,Delhi,75752,Health,4020,Credit Card,4019.43
+2023-10-12,October,Kolkata,61289,Entertainment,2643,UPI,2715.12
+2024-07-31,July,Pune,70991,Education,5287,Debit Card,5104.32
+2024-05-09,May,Kolkata,54874,Others,1239,Cash,1140.74
+2024-06-25,June,Pune,27097,Rent,16078,Net Banking,16601.2
+2024-05-22,May,Hyderabad,37670,Others,2285,Net Banking,2348.93
+2023-04-19,April,Hyderabad,69088,Health,778,Net Banking,864.03
+2023-08-08,August,Bangalore,57797,Travel,2758,Debit Card,2534.22
+2023-12-19,December,Kolkata,67146,Entertainment,4440,Net Banking,4265.31
+2024-04-30,April,Pune,64721,Others,2720,UPI,2718.5
+2023-01-20,January,Delhi,49154,Education,6378,Cash,6816.61
+2023-12-24,December,Bangalore,56513,Others,2943,Net Banking,3089.31
+2023-05-07,May,Delhi,82462,Food,5307,Cash,4927.9
+2024-07-08,July,Kolkata,53268,Travel,9949,Credit Card,9928.64
+2024-03-14,March,Bangalore,59943,Travel,10491,Cash,12141.84
+2023-03-27,March,Kolkata,80656,Travel,4850,Credit Card,4490.97
+2023-07-01,July,Kolkata,56700,Food,8314,UPI,9377.8
+2023-03-17,March,Hyderabad,77229,Food,6050,UPI,7253.67
+2023-11-23,November,Pune,59346,Food,9485,Net Banking,10668.64
+2023-09-15,September,Pune,49326,Rent,14287,Cash,16206.03
+2023-08-14,August,Bangalore,57416,Others,2061,Cash,2468.61
+2024-01-29,January,Kolkata,47775,Entertainment,6085,UPI,5764.17
+2024-07-04,July,Bangalore,89882,Others,388,UPI,428.14
+2024-07-22,July,Chennai,47650,Rent,12926,Credit Card,12763.31
+2023-10-25,October,Chennai,67272,Others,432,UPI,393.39
+2023-11-19,November,Delhi,39737,Education,8563,Debit Card,8243.01
+2024-03-03,March,Chennai,37358,Entertainment,1441,Net Banking,1724.93
+2023-08-11,August,Mumbai,85784,Entertainment,3543,UPI,3620.7
+2023-11-13,November,Bangalore,82650,Education,6492,Cash,6976.85
+2023-03-05,March,Hyderabad,59677,Education,6268,Credit Card,6143.52
+2023-03-25,March,Delhi,40542,Food,7212,Debit Card,8167.45
+2023-10-29,October,Pune,62454,Travel,14554,UPI,15247.44
+2024-01-20,January,Kolkata,37311,Travel,2561,Credit Card,2524.94
+2024-02-05,February,Pune,53001,Education,7413,Debit Card,7781.8
+2024-07-18,July,Mumbai,47350,Travel,11434,Debit Card,11627.11
+2023-04-06,April,Delhi,89816,Entertainment,1908,Cash,2232.46
+2023-10-06,October,Kolkata,46062,Education,7920,UPI,9241.17
+2023-02-22,February,Bangalore,62145,Health,9990,Net Banking,9651.33
+2023-07-23,July,Delhi,60298,Food,7353,Net Banking,8013.12
+2023-12-20,December,Kolkata,66230,Travel,1386,Cash,1271.18
+2023-03-29,March,Delhi,60977,Entertainment,3114,Cash,3405.93
+2023-02-08,February,Delhi,57869,Rent,22019,Credit Card,24490.22
+2023-06-18,June,Hyderabad,66585,Rent,16272,UPI,17578.36
+2023-03-05,March,Bangalore,57801,Food,2567,Net Banking,2734.66
+2023-04-26,April,Hyderabad,48708,Rent,11929,Credit Card,11117.95
+2024-03-08,March,Bangalore,42232,Travel,6162,Debit Card,6169.02
+2023-08-04,August,Mumbai,95072,Health,7832,Debit Card,7983.18
+2023-12-22,December,Hyderabad,64438,Others,2278,Debit Card,2304.31
+2023-09-15,September,Kolkata,49546,Rent,21549,Cash,19702.02
+2023-06-29,June,Chennai,85657,Entertainment,2167,Net Banking,2299.75
+2023-02-25,February,Hyderabad,54492,Food,2725,Net Banking,3127.01
+2023-05-14,May,Bangalore,71015,Education,6918,Credit Card,8141.68
+2023-04-03,April,Hyderabad,46575,Food,5828,UPI,6038.62
+2023-02-25,February,Hyderabad,95132,Others,3267,Cash,3541.81
+2024-04-14,April,Mumbai,80868,Health,1772,Cash,2031.48
+2024-02-14,February,Chennai,47536,Health,7217,Debit Card,8493.32
+2023-09-19,September,Bangalore,38984,Health,7787,Net Banking,7659.51
+2024-01-06,January,Chennai,75715,Others,3555,Debit Card,3860.26
+2023-03-22,March,Bangalore,67330,Rent,23732,Cash,24114.1
+2024-04-15,April,Delhi,24243,Entertainment,3825,Net Banking,3444.02
+2023-05-20,May,Pune,57533,Travel,12046,Credit Card,12266.26
+2023-12-20,December,Bangalore,54138,Food,3042,UPI,2942.35
+2023-04-21,April,Mumbai,65861,Others,474,UPI,513.55
+2024-02-23,February,Hyderabad,68693,Health,2491,Cash,2623.05
+2023-09-06,September,Kolkata,45419,Food,7499,Cash,7521.26
+2024-03-30,March,Hyderabad,69029,Food,8574,UPI,8837.67
+2023-04-23,April,Hyderabad,42527,Entertainment,4785,Cash,5667.88
+2023-04-02,April,Delhi,68851,Education,4304,Cash,4433.19
+2024-02-28,February,Delhi,79385,Rent,19620,Cash,19532.02
+2023-02-19,February,Kolkata,66236,Food,4353,Net Banking,4275.15
+2023-01-04,January,Pune,59195,Education,8254,UPI,8631.44
+2023-07-08,July,Mumbai,51326,Education,6491,Net Banking,6095.55
+2023-05-15,May,Chennai,62938,Others,3717,Cash,3884.1
+2023-01-29,January,Hyderabad,79537,Entertainment,2228,Net Banking,2103.08
+2023-11-02,November,Mumbai,72929,Entertainment,3705,Net Banking,3716.66
+2023-08-20,August,Bangalore,96883,Others,4354,Credit Card,4204.54
+2024-06-14,June,Kolkata,56658,Rent,8567,UPI,9457.31
+2023-03-07,March,Chennai,104087,Travel,10700,Debit Card,10286.02
+2023-02-07,February,Bangalore,90432,Education,6798,Debit Card,6465.23
+2024-01-16,January,Pune,56976,Others,2514,Cash,2382.36
+2023-08-26,August,Chennai,96382,Food,4702,Net Banking,5214.03
+2023-09-05,September,Mumbai,42449,Education,8854,UPI,8147.94
+2024-08-18,August,Chennai,59183,Entertainment,7508,Net Banking,8773.01
+2024-06-07,June,Kolkata,61057,Others,1974,Credit Card,2108.06
+2024-07-16,July,Mumbai,83627,Rent,12300,Debit Card,14074.12
+2023-11-04,November,Chennai,30458,Others,879,Cash,1031.07
+2024-02-10,February,Bangalore,73229,Entertainment,846,Credit Card,841.7
+2023-01-11,January,Mumbai,51720,Health,3726,Credit Card,3802.45
+2023-06-01,June,Mumbai,51538,Travel,8708,Debit Card,9693.91
+2023-02-20,February,Mumbai,69348,Others,2497,Cash,2630.39
+2023-04-16,April,Chennai,36923,Entertainment,2629,Cash,2739.63
+2023-01-04,January,Kolkata,9161,Food,9442,Net Banking,10082.47
+2024-01-15,January,Hyderabad,37323,Entertainment,6535,Debit Card,6166.81
+2023-04-19,April,Chennai,17575,Others,2589,Net Banking,3054.76
+2023-01-04,January,Mumbai,36669,Rent,22402,Credit Card,22783.5
+2023-02-08,February,Pune,37546,Others,2498,Debit Card,2684.52
+2024-07-30,July,Bangalore,56287,Others,3126,UPI,3332.44
+2024-06-26,June,Chennai,57953,Health,2893,Net Banking,3467.34
+2024-01-16,January,Kolkata,57124,Education,5526,Cash,5390.41
+2023-08-02,August,Chennai,60687,Health,3446,Credit Card,3286.01
+2024-03-29,March,Bangalore,50546,Food,4860,Debit Card,4590.66
+2024-05-30,May,Kolkata,38421,Rent,12219,Debit Card,13836.22
+2023-04-19,April,Mumbai,38228,Travel,11597,Debit Card,11895.3
+2023-10-02,October,Kolkata,67655,Others,4885,Debit Card,4996.79
+2024-05-12,May,Pune,85390,Others,1686,Cash,1599.48
+2023-06-28,June,Pune,79358,Others,1124,Debit Card,1051.12
+2023-09-06,September,Chennai,51891,Health,7349,Debit Card,7848.29
+2023-01-05,January,Hyderabad,67406,Health,8892,Cash,9110.72
+2023-06-28,June,Hyderabad,69787,Others,1504,Credit Card,1657.09
+2023-12-13,December,Delhi,65490,Health,1637,Debit Card,1696.85
+2023-11-02,November,Bangalore,64028,Entertainment,4435,Net Banking,4323.66
+2023-10-22,October,Chennai,44883,Travel,11088,Debit Card,11040.78
+2024-05-24,May,Hyderabad,60723,Rent,13758,Cash,13233.88
+2024-07-09,July,Delhi,41777,Entertainment,3304,Cash,3846.11
+2023-03-26,March,Pune,59028,Health,6051,Net Banking,5882.84
+2023-05-13,May,Pune,77675,Others,3135,Cash,3338.83
+2023-12-24,December,Bangalore,72670,Food,2441,Debit Card,2324.52
+2023-03-16,March,Bangalore,25030,Travel,11488,Credit Card,13375.7
+2024-01-22,January,Pune,55129,Education,3739,Credit Card,4381.91
+2023-11-14,November,Chennai,50249,Rent,22635,Cash,23021.04
+2024-07-23,July,Bangalore,82228,Education,2453,Net Banking,2834.6
+2023-02-18,February,Bangalore,70585,Others,1261,Debit Card,1369.2
+2024-03-03,March,Hyderabad,35992,Food,4083,Credit Card,4624.21
+2024-06-29,June,Pune,65356,Health,7098,UPI,7615.15
+2024-05-02,May,Mumbai,63067,Rent,16336,Net Banking,15585.12
+2023-11-24,November,Chennai,56700,Entertainment,1747,Debit Card,1750.23
+2024-07-03,July,Kolkata,31157,Health,7699,Debit Card,8565.85
+2023-01-01,January,Pune,70765,Food,6598,Credit Card,6585.52
+2024-04-17,April,Pune,43067,Health,4516,UPI,4936.58
+2023-02-17,February,Kolkata,88366,Food,6080,Net Banking,6639.68
+2024-08-16,August,Chennai,70792,Health,3561,Debit Card,3786.16
+2023-01-30,January,Bangalore,57151,Entertainment,3319,Cash,3423.71
+2023-11-15,November,Bangalore,49211,Entertainment,5533,Credit Card,5370.18
+2024-04-18,April,Chennai,41660,Rent,10251,Cash,9462.0
+2024-07-20,July,Kolkata,58229,Education,11596,Net Banking,11527.42
+2023-10-23,October,Hyderabad,36581,Health,5876,Cash,5757.82
+2023-10-19,October,Delhi,55704,Rent,23287,Net Banking,21026.62
+2023-07-08,July,Chennai,53304,Rent,10523,UPI,12578.86
+2023-10-01,October,Hyderabad,59823,Others,1512,Cash,1410.33
+2023-10-13,October,Kolkata,75693,Health,3752,UPI,3588.55
+2024-02-04,February,Hyderabad,45740,Entertainment,5806,Cash,6260.33
+2023-12-12,December,Pune,37987,Rent,19413,UPI,22839.13
+2023-06-02,June,Mumbai,43692,Entertainment,2286,UPI,2627.37
+2024-01-27,January,Chennai,42316,Food,3088,Credit Card,3101.59
+2024-03-21,March,Delhi,53330,Others,1426,Net Banking,1288.25
+2024-03-03,March,Mumbai,51216,Entertainment,1400,Cash,1482.98
+2024-06-08,June,Hyderabad,70291,Education,10656,Net Banking,11842.47
+2023-05-27,May,Delhi,46917,Others,4426,Credit Card,4297.77
+2024-08-03,August,Kolkata,27199,Travel,13645,Debit Card,16360.46
+2023-07-12,July,Mumbai,56117,Entertainment,6913,Net Banking,8117.59
+2024-02-19,February,Mumbai,65562,Entertainment,3621,Cash,4138.28
+2023-08-25,August,Chennai,83916,Rent,16974,UPI,18305.44
+2023-03-16,March,Delhi,51271,Others,3945,Debit Card,3991.44
+2023-03-17,March,Delhi,57644,Others,2182,Net Banking,2616.74
+2024-02-15,February,Chennai,89193,Others,3389,Cash,3205.88
+2023-11-26,November,Kolkata,44278,Others,3706,Cash,3706.88
+2023-06-24,June,Bangalore,54326,Education,3606,Credit Card,3988.83
+2023-08-13,August,Hyderabad,87240,Health,9404,Net Banking,8960.24
+2023-11-14,November,Pune,60291,Others,1394,Debit Card,1564.21
+2023-04-05,April,Pune,68908,Health,1698,Debit Card,1604.62
+2023-04-12,April,Kolkata,58234,Education,8332,UPI,9120.02
+2023-04-22,April,Pune,65407,Health,5801,UPI,5970.55
+2024-05-05,May,Pune,71096,Food,3563,Debit Card,3389.99
+2023-09-22,September,Bangalore,66916,Others,1406,UPI,1334.12
+2023-02-01,February,Kolkata,67484,Food,4801,Credit Card,5747.85
+2023-01-30,January,Mumbai,81013,Health,4375,Cash,4392.44
+2024-05-25,May,Hyderabad,55302,Education,7535,Credit Card,8863.36
+2023-09-25,September,Bangalore,63177,Education,5300,Debit Card,5598.93
+2023-05-02,May,Bangalore,51316,Education,2343,Net Banking,2808.26
+2023-08-10,August,Pune,63207,Health,8820,Net Banking,9229.76
+2023-02-19,February,Pune,48793,Rent,21412,UPI,21439.35
+2024-05-01,May,Hyderabad,87693,Entertainment,3537,Cash,4175.03
+2023-08-03,August,Hyderabad,74096,Others,968,Debit Card,942.67
+2024-03-13,March,Bangalore,51170,Education,7133,UPI,7496.89
+2024-03-09,March,Bangalore,66180,Others,3343,Debit Card,3149.62
+2023-03-10,March,Chennai,67285,Food,2743,UPI,2728.39
+2023-05-06,May,Chennai,63368,Others,4656,Credit Card,5024.48
+2024-07-19,July,Mumbai,50360,Entertainment,1997,Net Banking,2038.8
+2023-11-09,November,Bangalore,68875,Rent,19793,UPI,20531.96
+2024-08-08,August,Kolkata,41141,Travel,5371,Debit Card,5442.06
+2024-05-25,May,Chennai,69104,Rent,23232,Cash,25912.04
+2023-08-07,August,Kolkata,71185,Entertainment,2790,UPI,3216.86
+2023-07-12,July,Pune,41294,Others,4232,UPI,3988.58
+2023-11-09,November,Kolkata,25394,Rent,22645,Cash,25335.05
+2024-06-02,June,Chennai,54243,Entertainment,1356,Credit Card,1252.46
+2023-02-22,February,Pune,69783,Food,3963,Debit Card,3887.18
+2023-07-30,July,Pune,77714,Travel,5293,Cash,5764.94
+2023-12-16,December,Delhi,55158,Education,7296,Cash,8557.27
+2023-06-05,June,Kolkata,33411,Others,1743,UPI,1892.97
+2023-11-04,November,Chennai,63070,Food,7942,UPI,8949.36
+2023-09-13,September,Pune,63623,Others,4806,UPI,5156.61
+2024-05-07,May,Delhi,49007,Food,6529,Net Banking,6666.68
+2023-03-02,March,Kolkata,44390,Rent,18375,Debit Card,18887.14
+2024-06-08,June,Delhi,79157,Others,484,UPI,539.59
+2024-02-19,February,Pune,59064,Education,10670,Credit Card,12713.61
+2024-07-25,July,Mumbai,53979,Education,11136,UPI,11019.73
+2023-10-10,October,Chennai,65740,Rent,24084,Cash,22459.45
+2024-08-01,August,Mumbai,46986,Others,3247,UPI,3871.15
+2024-08-05,August,Bangalore,46807,Entertainment,5652,UPI,5910.23
+2023-03-14,March,Bangalore,61741,Rent,21478,Net Banking,21144.63
+2024-03-14,March,Mumbai,58006,Others,2417,Cash,2770.71
+2023-02-02,February,Hyderabad,32920,Travel,8443,Net Banking,8535.45
+2024-08-01,August,Delhi,56061,Travel,14407,Net Banking,13844.52
+2023-05-27,May,Bangalore,64104,Entertainment,1470,UPI,1680.35
+2023-01-15,January,Bangalore,70285,Health,8879,Debit Card,8339.39
+2024-04-21,April,Mumbai,65922,Education,9691,Debit Card,11359.02
+2023-08-27,August,Pune,62795,Travel,4277,Debit Card,4546.78
+2023-11-22,November,Chennai,54885,Rent,8220,UPI,9076.31
+2024-03-10,March,Pune,58115,Education,7866,Debit Card,9076.42
+2023-10-28,October,Chennai,50096,Education,7387,Credit Card,6800.29
+2023-11-29,November,Kolkata,67526,Health,1586,Credit Card,1482.95
+2024-03-05,March,Hyderabad,66069,Rent,15335,Credit Card,14320.73
+2024-03-26,March,Pune,45930,Others,3483,Net Banking,3614.74
+2023-07-13,July,Hyderabad,60927,Rent,14249,Cash,16934.15
+2023-07-11,July,Pune,69712,Food,6124,Net Banking,5662.41
+2023-05-30,May,Mumbai,66566,Education,4357,Credit Card,5108.5
+2024-02-11,February,Chennai,70867,Entertainment,2774,Credit Card,2821.58
+2023-04-26,April,Chennai,64361,Health,9577,Net Banking,10260.51
+2023-01-24,January,Mumbai,62416,Education,2922,UPI,3161.25
+2023-05-27,May,Hyderabad,83514,Education,5231,Debit Card,5926.32
+2024-07-27,July,Pune,53179,Food,6582,Credit Card,6518.67
+2023-04-02,April,Mumbai,81252,Entertainment,6750,Net Banking,6915.92
+2023-10-06,October,Delhi,74383,Travel,11251,Credit Card,12352.96
+2023-09-11,September,Mumbai,49754,Health,7164,Debit Card,7840.48
+2024-08-18,August,Pune,64166,Education,9503,Credit Card,11330.98
+2024-03-08,March,Pune,50732,Food,7980,UPI,8511.18
+2024-01-20,January,Delhi,57676,Health,9358,Net Banking,10273.67
+2023-02-11,February,Pune,47798,Education,5619,Cash,6726.56
+2023-08-02,August,Bangalore,54790,Entertainment,5090,Cash,5445.84
+2023-02-23,February,Chennai,60189,Food,6963,Cash,7252.8
+2023-04-24,April,Chennai,61089,Travel,6898,Debit Card,6342.05
+2024-01-22,January,Mumbai,86596,Education,4982,Net Banking,4931.78
+2023-08-15,August,Chennai,52326,Travel,1217,Cash,1304.26
+2023-03-23,March,Delhi,58732,Food,3666,Debit Card,3687.82
+2023-02-09,February,Pune,76066,Others,3647,Net Banking,4372.59
+2023-07-19,July,Hyderabad,66954,Travel,8158,Cash,8371.32
+2023-06-11,June,Pune,71271,Entertainment,6669,Debit Card,6972.21
+2023-07-30,July,Kolkata,35169,Entertainment,2178,Debit Card,2491.93
+2024-02-15,February,Hyderabad,74767,Health,6211,UPI,7245.96
+2023-10-25,October,Hyderabad,48940,Travel,6372,Credit Card,6792.88
+2023-02-07,February,Mumbai,31197,Others,4023,Credit Card,4213.65
+2023-05-18,May,Delhi,59356,Rent,16182,Cash,18258.33
+2023-04-26,April,Hyderabad,58173,Food,7106,Debit Card,7843.1
+2024-06-19,June,Kolkata,41696,Education,5202,Cash,4870.71
+2023-07-12,July,Pune,72942,Health,1414,Cash,1485.39
+2024-02-11,February,Hyderabad,53175,Health,9821,Debit Card,9112.03
+2024-04-21,April,Bangalore,72008,Travel,11255,Cash,12140.87
+2023-06-07,June,Bangalore,28464,Travel,5420,UPI,5024.64
+2023-03-01,March,Kolkata,73555,Travel,5012,Net Banking,5739.66
+2024-07-24,July,Hyderabad,49486,Travel,13513,Credit Card,15602.71
+2024-02-02,February,Hyderabad,28783,Travel,6404,Cash,6438.02
+2023-08-19,August,Delhi,77473,Others,3208,UPI,2946.93
+2023-11-24,November,Pune,63527,Others,3468,Debit Card,3981.14
+2024-01-20,January,Kolkata,53017,Health,9817,Net Banking,10318.58
+2023-05-25,May,Kolkata,61909,Health,1563,Credit Card,1657.26
+2023-12-25,December,Bangalore,67616,Travel,3945,UPI,3574.7
+2024-02-02,February,Hyderabad,47254,Rent,12303,Debit Card,12280.77
+2024-07-09,July,Mumbai,102845,Rent,21636,UPI,19801.24
+2023-02-02,February,Pune,47051,Travel,8868,Cash,8529.79
+2024-03-26,March,Delhi,53417,Others,4103,Credit Card,4515.48
+2024-04-30,April,Chennai,44297,Food,7143,Net Banking,8332.15
+2023-11-11,November,Pune,49472,Food,6586,Credit Card,6556.26
+2023-11-20,November,Mumbai,22360,Travel,8357,Net Banking,9049.04
+2023-04-30,April,Delhi,44307,Food,5235,Cash,5158.6
+2023-06-10,June,Hyderabad,46977,Food,9735,Credit Card,11410.58
+2023-03-12,March,Mumbai,73933,Rent,15456,Credit Card,15083.15
+2023-04-18,April,Mumbai,65393,Food,9199,Credit Card,10214.46
+2024-04-04,April,Pune,72267,Travel,7330,Cash,7130.52
+2023-09-29,September,Delhi,60201,Entertainment,5523,Net Banking,5986.51
+2023-05-31,May,Kolkata,81739,Education,11532,UPI,11776.56
+2024-08-04,August,Kolkata,39744,Rent,15552,Net Banking,17587.1
+2024-04-20,April,Hyderabad,69336,Others,699,UPI,656.29
+2023-11-29,November,Delhi,58337,Travel,9537,Net Banking,11142.79
+2023-05-18,May,Hyderabad,65326,Food,5658,Cash,6164.38
+2023-11-04,November,Hyderabad,63441,Health,8771,Cash,10163.94
+2024-01-06,January,Kolkata,56498,Food,9575,Cash,10212.74
+2023-08-13,August,Mumbai,62798,Food,3361,Net Banking,3056.69
+2024-05-15,May,Mumbai,53914,Others,668,UPI,772.35
+2023-09-28,September,Mumbai,36573,Food,3024,Cash,2868.93
+2024-06-28,June,Mumbai,57923,Food,8295,Credit Card,8279.48
+2023-05-02,May,Hyderabad,73890,Travel,14308,Credit Card,16021.26
+2023-03-30,March,Kolkata,74013,Food,9251,Debit Card,10067.17
+2023-01-28,January,Mumbai,40457,Food,3896,Net Banking,4197.61
+2023-01-15,January,Bangalore,51135,Education,9406,Net Banking,10335.14
+2024-06-06,June,Hyderabad,36979,Entertainment,2423,Credit Card,2744.86
+2023-07-16,July,Kolkata,58662,Health,4147,Credit Card,4235.42
+2023-12-16,December,Kolkata,66814,Rent,24355,Credit Card,26562.78
+2023-10-26,October,Bangalore,69525,Education,6955,Credit Card,8116.79
+2023-11-23,November,Mumbai,67256,Others,1219,Cash,1461.02
+2024-02-01,February,Chennai,46538,Rent,24930,Cash,28000.99
+2023-06-03,June,Kolkata,90548,Rent,23146,Debit Card,22431.25
+2024-08-05,August,Chennai,77192,Rent,11654,UPI,10569.47
+2024-01-12,January,Bangalore,76593,Food,6447,Debit Card,6167.9
+2023-08-06,August,Chennai,46655,Entertainment,3977,Debit Card,4681.76
+2023-12-24,December,Bangalore,59719,Health,9234,Cash,9549.63
+2024-03-01,March,Chennai,84087,Health,6842,Debit Card,7537.38
+2024-06-06,June,Bangalore,55903,Travel,14683,Debit Card,15933.61
+2024-06-15,June,Bangalore,33812,Education,9559,Net Banking,9160.44
+2023-11-16,November,Pune,66678,Education,11602,UPI,11843.55
+2023-07-06,July,Chennai,76676,Health,2778,Net Banking,3073.36
+2023-03-21,March,Kolkata,59777,Travel,7260,Cash,6624.58
+2023-05-13,May,Mumbai,59679,Travel,12898,Debit Card,12149.15
+2023-11-26,November,Pune,82080,Education,3144,Credit Card,3545.72
+2023-12-25,December,Hyderabad,50663,Entertainment,638,Cash,579.38
+2023-11-26,November,Kolkata,44001,Health,6628,Net Banking,7685.03
+2024-05-29,May,Chennai,69468,Food,3384,Cash,3050.44
+2023-02-15,February,Mumbai,72033,Others,548,Credit Card,581.34
+2023-10-10,October,Hyderabad,75797,Rent,9663,UPI,11303.01
+2023-10-10,October,Bangalore,55619,Education,5493,UPI,5850.86
+2024-01-03,January,Pune,58985,Others,2122,Debit Card,1958.11
+2024-02-11,February,Mumbai,40499,Entertainment,2437,Cash,2490.09
+2023-09-18,September,Chennai,54726,Entertainment,3289,Debit Card,2979.64
+2023-02-12,February,Chennai,55008,Education,10981,Net Banking,9908.78
+2024-05-06,May,Kolkata,69381,Food,2218,Debit Card,2492.76
+2024-05-16,May,Mumbai,69480,Rent,24555,Net Banking,26965.3
+2024-07-23,July,Bangalore,48575,Education,3113,Credit Card,3144.5
+2023-07-07,July,Kolkata,70546,Rent,9651,Debit Card,8765.17
+2023-08-05,August,Bangalore,45030,Travel,4502,Debit Card,4997.92
+2023-04-27,April,Bangalore,61184,Others,1149,Net Banking,1359.78
+2023-09-06,September,Chennai,64611,Others,4359,Credit Card,4543.57
+2023-05-08,May,Delhi,69558,Food,4962,Credit Card,4613.46
+2023-03-19,March,Hyderabad,82460,Entertainment,2698,UPI,2429.74
+2023-04-29,April,Chennai,72620,Education,3611,UPI,3746.7
+2024-04-06,April,Hyderabad,75677,Others,4841,Net Banking,5216.68
+2023-10-03,October,Kolkata,53274,Rent,14141,UPI,14315.55
+2023-02-13,February,Chennai,69206,Food,6124,Net Banking,6454.96
+2024-02-10,February,Pune,78166,Education,6508,Net Banking,5989.88
+2023-09-19,September,Hyderabad,67976,Education,10781,Cash,12396.33
+2024-02-16,February,Kolkata,41217,Entertainment,7269,Debit Card,7657.52
+2024-01-05,January,Hyderabad,104643,Entertainment,4157,Net Banking,3893.24
+2024-02-17,February,Pune,51715,Rent,17165,Debit Card,16987.31
+2024-02-24,February,Bangalore,55665,Entertainment,1471,Net Banking,1672.82
+2024-01-18,January,Bangalore,65091,Entertainment,5963,Debit Card,6668.67
+2023-12-04,December,Mumbai,65262,Health,5945,Debit Card,5497.86
+2024-03-22,March,Pune,54014,Education,10072,UPI,11949.49
+2024-06-22,June,Hyderabad,42265,Food,2048,Debit Card,2006.37
+2023-05-24,May,Mumbai,90235,Rent,23306,Cash,26284.92
+2023-03-21,March,Mumbai,55110,Rent,24881,UPI,29499.03
+2023-08-13,August,Pune,45008,Entertainment,7429,Debit Card,8167.99
+2023-09-24,September,Pune,39010,Rent,21251,Cash,24021.16
+2024-06-09,June,Chennai,59857,Health,8077,Credit Card,7781.4
+2023-09-13,September,Delhi,63860,Health,923,Cash,833.75
+2024-03-06,March,Delhi,88147,Education,5213,Cash,5259.97
+2023-06-17,June,Chennai,67796,Education,10816,Credit Card,11843.84
+2024-05-28,May,Delhi,53674,Food,5448,Cash,5879.2
+2023-06-25,June,Chennai,15518,Rent,24995,Credit Card,25557.21
+2023-07-26,July,Bangalore,63799,Others,2971,Debit Card,2942.88
+2023-02-21,February,Chennai,79584,Rent,20689,Debit Card,22065.87
+2023-03-25,March,Hyderabad,82601,Entertainment,1002,UPI,1183.31
+2024-06-19,June,Pune,60360,Travel,13190,Net Banking,14114.74
+2023-03-25,March,Hyderabad,43523,Rent,22179,Credit Card,22405.29
+2024-03-08,March,Hyderabad,64555,Rent,10391,UPI,9862.46
+2024-02-12,February,Bangalore,61468,Food,6741,Debit Card,7096.05
+2024-03-25,March,Hyderabad,46644,Rent,9122,Net Banking,9422.3
+2023-11-28,November,Chennai,56324,Food,8927,Net Banking,9470.94
+2023-07-22,July,Delhi,61632,Health,4282,UPI,4329.74
+2024-01-26,January,Bangalore,55026,Food,3035,UPI,3195.56
+2024-03-22,March,Hyderabad,34772,Travel,5674,UPI,5230.8
+2023-07-10,July,Chennai,67635,Food,4490,Net Banking,4403.62
+2023-02-09,February,Hyderabad,60949,Entertainment,1555,UPI,1821.29
+2024-07-24,July,Delhi,70616,Rent,22686,UPI,24856.11
+2023-03-20,March,Hyderabad,74285,Education,8790,Cash,8402.39
+2023-04-18,April,Hyderabad,58264,Travel,2753,Net Banking,3236.09
+2024-07-05,July,Hyderabad,32192,Education,6079,UPI,5823.72
+2023-01-30,January,Chennai,48412,Rent,10731,Debit Card,10020.26
+2024-08-20,August,Delhi,60711,Others,664,Net Banking,782.55
+2023-10-02,October,Kolkata,37036,Education,3464,Debit Card,3691.96
+2024-01-07,January,Pune,41397,Entertainment,3652,Debit Card,3380.47
+2024-02-15,February,Delhi,70587,Education,4779,Net Banking,5722.43
