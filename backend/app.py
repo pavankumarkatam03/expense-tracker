@@ -961,5 +961,6 @@ if __name__ == '__main__':
     print("   GET  /api/export/<type>?format=csv|pdf|excel")
     print("   POST /api/reset-data (reset all data)")
     print("\n🚀 Starting server...")
-    app.run(debug=True, port=5000, host='0.0.0.0')
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port, debug=False)
     
